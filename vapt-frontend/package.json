@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://blochlaisullah.github.io/vapt-frontend",
+  "homepage": "https://laisullah.github.io/vapt_frontend",
   "eslintConfig": {
     "extends": [
       "react-app",
