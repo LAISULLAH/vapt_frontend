@@ -1,0 +1,1226 @@
+Scan Report for ljku.edu.in
+Generated: 2025-08-29 12:18:41.559844
+
+
+--- Subdomains (crt.sh) ---
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+  <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <TITLE>crt.sh | %.ljku.edu.in</TITLE>
+  <META name="description" content="Free CT Log Certificate Search Tool from Sectigo (formerly Comodo CA)">
+  <META name="keywords" content="crt.sh, CT, Certificate Transparency, Certificate Search, SSL Certificate, Sectigo, Comodo CA">
+  <LINK href="//fonts.googleapis.com/css?family=Roboto+Mono|Roboto:400,400i,700,700i" rel="stylesheet">
+  <STYLE type="text/css">
+    a {
+      white-space: nowrap;
+    }
+    body {
+      color: #888888;
+      font: 12pt Roboto, sans-serif;
+      padding-top: 10px;
+      text-align: center
+    }
+    form {
+      margin: 0px
+    }
+    span {
+      border-radius: 10px
+    }
+    span.heading {
+      color: #888888;
+      font: 12pt Roboto, sans-serif
+    }
+    span.title {
+      background-color: #00B373;
+      color: #FFFFFF;
+      font: bold 18pt Roboto, sans-serif;
+      padding: 0px 5px
+    }
+    span.text {
+      color: #888888;
+      font: 10pt Roboto, sans-serif
+    }
+    span.whiteongrey {
+      background-color: #D9D9D6;
+      color: #FFFFFF;
+      font: bold 18pt Roboto, sans-serif;
+      padding: 0px 5px
+    }
+    table {
+      border-collapse: collapse;
+      color: #222222;
+      font: 10pt Roboto, sans-serif;
+      margin-left: auto;
+      margin-right: auto
+    }
+    table.options {
+      border: none;
+      margin-left: 10px
+    }
+    td, th {
+      border: 1px solid #CCCCCC;
+      padding: 0px 2px;
+      text-align: left;
+      vertical-align: top
+    }
+    td.outer, th.outer {
+      border: 1px solid #CCCCCC;
+      padding: 2px 20px;
+      text-align: left
+    }
+    th.heading {
+      color: #888888;
+      font: bold italic 12pt Roboto, sans-serif;
+      padding: 20px 0px 0px;
+      text-align: center
+    }
+    th.options, td.options {
+      border: none;
+      vertical-align: middle
+    }
+    td.text {
+      font: 10pt "Roboto Mono", sans-serif;
+      padding: 2px 20px
+    }
+    td.heading {
+      border: none;
+      color: #888888;
+      font: 12pt Roboto, sans-serif;
+      padding-top: 20px;
+      text-align: center
+    }
+    table.lint td, th {
+      text-align: center
+    }
+    .button {
+      background-color: #00B373;
+      border-radius: 10px;
+      color: #FFFFFF;
+      font: bold 13pt Roboto, sans-serif
+    }
+    .copyright {
+      font: 8pt Roboto, sans-serif;
+      color: #00B373
+    }
+    .input {
+      border: 1px solid #888888;
+      font-weight: bold;
+      text-align: center
+    }
+    .small {
+      font: 8pt Roboto, sans-serif;
+      color: #888888
+    }
+    .error {
+      background-color: #FFDFDF;
+      color: #CC0000;
+      font-weight: bold
+    }
+    .fatal {
+      background-color: #0000AA;
+      color: #FFFFFF;
+      font-weight: bold
+    }
+    .notice {
+      background-color: #FFFFDF;
+      color: #606000
+    }
+    .warning {
+      background-color: #FFEFDF;
+      color: #DF6000
+    }
+    *:focus {
+      outline: 0px transparent !important
+    }
+  </STYLE>
+</HEAD>
+<BODY>
+  <A style="text-decoration:none" href="/"><SPAN class="title">crt.sh</SPAN></A>&nbsp;  <SPAN class="whiteongrey">Identity Search</SPAN>
+  <SPAN style="position:absolute">
+    &nbsp; &nbsp; &nbsp; <A href="atom?q=ljku.edu.in"><IMG src="/feed-icon-28x28.png"></A>
+    <A href="csv?q=ljku.edu.in"><IMG src="/csv-icon-28x28.png"></A>
+				<A href="json?q=ljku.edu.in"><IMG src="/json-icon-28x28.png"></A>
+    &nbsp; &nbsp; &nbsp; <A style="font-size:8pt" href="?q=ljku.edu.in&dir=^&sort=1&group=icaid">Group by Issuer</A>
+  </SPAN>
+<BR><BR>
+<TABLE>
+  <TR>
+    <TH class="outer">Criteria</TH>
+    <TD class="outer">Type: Identity&nbsp;&nbsp;&nbsp;&nbsp;Match: ILIKE&nbsp;&nbsp;&nbsp;&nbsp;Search: 'ljku.edu.in'</TD>
+  </TR>
+</TABLE>
+<BR>
+<TABLE>
+  <TR>
+    <TH class="outer">Certificates</TH>
+    <TD class="outer">
+<TABLE>
+  <TR>
+    <TH>
+      <A href="?q=ljku.edu.in&dir=v&sort=0&group=none">crt.sh ID</A>
+    </TH>
+    <TH style="white-space:nowrap">
+      &nbsp;<A href="?q=ljku.edu.in&dir=v&sort=1&group=none">Logged At</A>&nbsp;
+ &#8679;    </TH>
+    <TH style="white-space:nowrap"><A href="?q=ljku.edu.in&dir=v&sort=2&group=none">Not Before</A>
+    </TH>
+    <TH style="white-space:nowrap"><A href="?q=ljku.edu.in&dir=v&sort=4&group=none">Not After</A>
+    </TH>
+    <TH>Common Name</TH>
+    <TH>Matching Identities</TH>
+    <TH>
+      <A href="?q=ljku.edu.in&dir=v&sort=3&group=none">Issuer Name</A>
+    </TH>
+  </TR>
+  <TR>
+    <TD style="text-align:center"><A href="?id=20256716713">20256716713</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2025-08-11</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-07-25</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-10-24</TD>
+    <TD>delivery.nopaperforms.info.ljku.edu.in</TD>
+    <TD>delivery.nopaperforms.info.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=286244">C=US, O=Google Trust Services, CN=WR3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=19909335426">19909335426</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2025-07-26</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-07-25</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-10-24</TD>
+    <TD>delivery.nopaperforms.info.ljku.edu.in</TD>
+    <TD>delivery.nopaperforms.info.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=286244">C=US, O=Google Trust Services, CN=WR3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=19327632646">19327632646</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2025-06-29</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-06-29</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-09-27</TD>
+    <TD>lfa.ljku.edu.in</TD>
+    <TD>lfa.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=295815">C=US, O=Let's Encrypt, CN=R11</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=19327627679">19327627679</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2025-06-29</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-06-29</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-09-27</TD>
+    <TD>lfa.ljku.edu.in</TD>
+    <TD>lfa.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=295815">C=US, O=Let's Encrypt, CN=R11</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=18648890990">18648890990</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2025-05-27</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-05-27</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-08-25</TD>
+    <TD>delivery.nopaperforms.info.ljku.edu.in</TD>
+    <TD>delivery.nopaperforms.info.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=286244">C=US, O=Google Trust Services, CN=WR3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=18124881501">18124881501</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2025-04-29</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-04-29</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-07-28</TD>
+    <TD>lfa.ljku.edu.in</TD>
+    <TD>lfa.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=295815">C=US, O=Let's Encrypt, CN=R11</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=18125453361">18125453361</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2025-04-29</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-04-29</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-07-28</TD>
+    <TD>lfa.ljku.edu.in</TD>
+    <TD>lfa.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=295815">C=US, O=Let's Encrypt, CN=R11</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=17651695373">17651695373</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2025-03-28</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-03-28</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-06-26</TD>
+    <TD>delivery.nopaperforms.info.ljku.edu.in</TD>
+    <TD>delivery.nopaperforms.info.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=286244">C=US, O=Google Trust Services, CN=WR3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=17284310680">17284310680</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2025-03-21</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-03-28</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-04-06</TD>
+    <TD>*.ljku.edu.in</TD>
+    <TD>*.ljku.edu.in<BR>ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=904">C=US, ST=Arizona, L=Scottsdale, O=&quot;GoDaddy.com, Inc.&quot;, OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=17284307031">17284307031</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2025-03-21</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-03-21</TD>
+    <TD style="text-align:center;white-space:nowrap">2026-04-06</TD>
+    <TD>*.ljku.edu.in</TD>
+    <TD>*.ljku.edu.in<BR>ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=904">C=US, ST=Arizona, L=Scottsdale, O=&quot;GoDaddy.com, Inc.&quot;, OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=16331691802">16331691802</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2025-01-20</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-19</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-03-20</TD>
+    <TD>admissions.ljku.edu.in</TD>
+    <TD>admissions.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=247115">C=US, O=Amazon, CN=Amazon RSA 2048 M02</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=16331686161">16331686161</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2025-01-20</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-01-20</TD>
+    <TD style="text-align:center;white-space:nowrap">2026-02-19</TD>
+    <TD>admissions.ljku.edu.in</TD>
+    <TD>admissions.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=247115">C=US, O=Amazon, CN=Amazon RSA 2048 M02</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=15286506947">15286506947</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-11-05</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-11-05</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-02-03</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=295814">C=US, O=Let's Encrypt, CN=R10</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=15224858445">15224858445</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-11-05</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-11-05</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-02-03</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=295814">C=US, O=Let's Encrypt, CN=R10</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=14602225220">14602225220</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-09-19</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-09-19</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-10-20</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in<BR>www.mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=105493">C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=14602225122">14602225122</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-09-19</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-09-19</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-10-20</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in<BR>www.mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=105493">C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=14373844209">14373844209</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-08-31</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-08-31</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-11-29</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=295815">C=US, O=Let's Encrypt, CN=R11</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=14373845144">14373845144</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-08-31</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-08-31</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-11-29</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=295815">C=US, O=Let's Encrypt, CN=R11</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=13582933611">13582933611</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-07-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-07-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-09-29</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=295815">C=US, O=Let's Encrypt, CN=R11</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=13582933264">13582933264</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-07-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-07-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-09-29</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=295815">C=US, O=Let's Encrypt, CN=R11</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=13582933641">13582933641</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-07-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-07-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-09-29</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=295814">C=US, O=Let's Encrypt, CN=R10</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=13582931069">13582931069</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-07-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-07-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-09-29</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=295814">C=US, O=Let's Encrypt, CN=R10</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=13323536253">13323536253</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-06-08</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-06-08</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-09-06</TD>
+    <TD>phd.ljku.edu.in</TD>
+    <TD>phd.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=295815">C=US, O=Let's Encrypt, CN=R11</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=13323532379">13323532379</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-06-08</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-06-08</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-09-06</TD>
+    <TD>phd.ljku.edu.in</TD>
+    <TD>phd.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=295815">C=US, O=Let's Encrypt, CN=R11</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=12916484717">12916484717</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-05-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-05-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-07-30</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=12916478271">12916478271</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-05-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-05-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-07-30</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=12916482636">12916482636</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-05-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-05-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-07-30</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=12916485539">12916485539</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-05-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-05-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-07-30</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=12659072355">12659072355</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-04-08</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-04-08</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-07-07</TD>
+    <TD>phd.ljku.edu.in</TD>
+    <TD>phd.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=12654517305">12654517305</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-04-08</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-04-08</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-07-07</TD>
+    <TD>phd.ljku.edu.in</TD>
+    <TD>phd.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=12520254459">12520254459</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-03-28</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-04-06</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-04-06</TD>
+    <TD>*.ljku.edu.in</TD>
+    <TD>*.ljku.edu.in<BR>ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=904">C=US, ST=Arizona, L=Scottsdale, O=&quot;GoDaddy.com, Inc.&quot;, OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=12509537153">12509537153</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-03-28</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-03-28</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-04-06</TD>
+    <TD>*.ljku.edu.in</TD>
+    <TD>*.ljku.edu.in<BR>ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=904">C=US, ST=Arizona, L=Scottsdale, O=&quot;GoDaddy.com, Inc.&quot;, OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=12238014791">12238014791</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-03-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-03-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-05-30</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=12238009714">12238009714</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-03-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-03-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-05-30</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=12238005289">12238005289</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-03-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-03-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-05-30</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=12238002676">12238002676</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-03-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-03-01</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-05-30</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=12191782733">12191782733</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-26</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-26</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-05-26</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=12191773698">12191773698</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-26</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-26</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-05-26</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=12191784679">12191784679</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-26</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-26</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-05-26</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=12191778676">12191778676</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-26</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-26</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-05-26</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=12121027298">12121027298</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-19</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-19</TD>
+    <TD style="text-align:center;white-space:nowrap">2025-03-20</TD>
+    <TD>admissions.ljku.edu.in</TD>
+    <TD>admissions.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=247115">C=US, O=Amazon, CN=Amazon RSA 2048 M02</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=11975951023">11975951023</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-04</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-04</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-05-04</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=12922">C=US, ST=TX, L=Houston, O=&quot;cPanel, Inc.&quot;, CN=&quot;cPanel, Inc. Certification Authority&quot;</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=11975951231">11975951231</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-04</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-04</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-05-04</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=12922">C=US, ST=TX, L=Houston, O=&quot;cPanel, Inc.&quot;, CN=&quot;cPanel, Inc. Certification Authority&quot;</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=11975950988">11975950988</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-04</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-04</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-05-04</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=12922">C=US, ST=TX, L=Houston, O=&quot;cPanel, Inc.&quot;, CN=&quot;cPanel, Inc. Certification Authority&quot;</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=11975951181">11975951181</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-04</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-04</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-05-04</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=12922">C=US, ST=TX, L=Houston, O=&quot;cPanel, Inc.&quot;, CN=&quot;cPanel, Inc. Certification Authority&quot;</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=11174700162">11174700162</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-21</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-10</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-08-10</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in<BR>www.mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=96925">C=IN, OU=emSign PKI, O=eMudhra Technologies Limited, CN=emSign SSL CA - G1</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=11174695825">11174695825</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-21</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-14</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-08-10</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in<BR>www.mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=96925">C=IN, OU=emSign PKI, O=eMudhra Technologies Limited, CN=emSign SSL CA - G1</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=11161550757">11161550757</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-20</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-20</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-18</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=12922">C=US, ST=TX, L=Houston, O=&quot;cPanel, Inc.&quot;, CN=&quot;cPanel, Inc. Certification Authority&quot;</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=11161550402">11161550402</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-20</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-20</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-18</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=12922">C=US, ST=TX, L=Houston, O=&quot;cPanel, Inc.&quot;, CN=&quot;cPanel, Inc. Certification Authority&quot;</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=11154547908">11154547908</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-20</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-20</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-18</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=12922">C=US, ST=TX, L=Houston, O=&quot;cPanel, Inc.&quot;, CN=&quot;cPanel, Inc. Certification Authority&quot;</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=11161550421">11161550421</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-20</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-20</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-02-18</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=12922">C=US, ST=TX, L=Houston, O=&quot;cPanel, Inc.&quot;, CN=&quot;cPanel, Inc. Certification Authority&quot;</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10265000039">10265000039</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-31</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-31</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-29</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=12922">C=US, ST=TX, L=Houston, O=&quot;cPanel, Inc.&quot;, CN=&quot;cPanel, Inc. Certification Authority&quot;</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10449992482">10449992482</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-31</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-31</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-29</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD>cbl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=12922">C=US, ST=TX, L=Houston, O=&quot;cPanel, Inc.&quot;, CN=&quot;cPanel, Inc. Certification Authority&quot;</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10447699942">10447699942</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-31</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-31</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-29</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=12922">C=US, ST=TX, L=Houston, O=&quot;cPanel, Inc.&quot;, CN=&quot;cPanel, Inc. Certification Authority&quot;</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10447700007">10447700007</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-31</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-31</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-29</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD>cvl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=12922">C=US, ST=TX, L=Houston, O=&quot;cPanel, Inc.&quot;, CN=&quot;cPanel, Inc. Certification Authority&quot;</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10225593754">10225593754</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-26</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-26</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-09-25</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in<BR>www.mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=105493">C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10225593661">10225593661</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-26</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-26</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-09-25</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in<BR>www.mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=105493">C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10225587563">10225587563</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-26</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-26</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-09-25</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in<BR>www.mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=105493">C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10225587587">10225587587</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-26</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-26</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-09-25</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in<BR>www.mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=105493">C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10164835876">10164835876</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-17</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-17</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-09-16</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in<BR>www.mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=105493">C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10164832952">10164832952</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-17</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-17</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-09-16</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in<BR>www.mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=105493">C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10164636255">10164636255</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-17</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-17</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-09-16</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in<BR>www.mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=105493">C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10164636336">10164636336</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-17</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-17</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-09-16</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in<BR>www.mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=105493">C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10164544281">10164544281</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-17</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-17</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-09-16</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in<BR>www.mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=105493">C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10164544244">10164544244</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-17</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-17</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-09-16</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in<BR>www.mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=105493">C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo RSA Domain Validation Secure Server CA</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10141248262">10141248262</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-14</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-14</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-08-10</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in<BR>www.mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=96925">C=IN, OU=emSign PKI, O=eMudhra Technologies Limited, CN=emSign SSL CA - G1</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10257916754">10257916754</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-11</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-11</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-09</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10144427115">10144427115</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-11</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-11</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-09</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10109503301">10109503301</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-10</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-10</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-08-10</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in<BR>www.mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=96925">C=IN, OU=emSign PKI, O=eMudhra Technologies Limited, CN=emSign SSL CA - G1</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10224298532">10224298532</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-08</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-08</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-06</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10122974017">10122974017</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-08</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-08</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-06</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD>mail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10210752906">10210752906</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-05</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10112965917">10112965917</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-05</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10210741140">10210741140</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-05</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10170054772">10170054772</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-05</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10210733231">10210733231</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-05</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10170046976">10170046976</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-05</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10210498609">10210498609</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-05</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10112804941">10112804941</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-05</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10210132853">10210132853</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-05</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=10112564038">10112564038</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-11-05</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD>webmail.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=183267">C=US, O=Let's Encrypt, CN=R3</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=9316926262">9316926262</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-05-05</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-05-05</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-03</TD>
+    <TD>ljcvlcbl.ljku.edu.in</TD>
+    <TD>ljcvlcbl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=158800">C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=9316926242">9316926242</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-05-05</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-05-05</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-08-03</TD>
+    <TD>ljcvlcbl.ljku.edu.in</TD>
+    <TD>ljcvlcbl.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=158800">C=AT, O=ZeroSSL, CN=ZeroSSL RSA Domain Secure Site CA</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=9073908747">9073908747</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-04-06</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-04-06</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-04-06</TD>
+    <TD>*.ljku.edu.in</TD>
+    <TD>*.ljku.edu.in<BR>ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=904">C=US, ST=Arizona, L=Scottsdale, O=&quot;GoDaddy.com, Inc.&quot;, OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=8935816774">8935816774</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-03-20</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-03-20</TD>
+    <TD style="text-align:center;white-space:nowrap">2024-04-18</TD>
+    <TD>admissions.ljku.edu.in</TD>
+    <TD>admissions.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=246719">C=US, O=Amazon, CN=Amazon RSA 2048 M01</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=8594530588">8594530588</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2023-02-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-02-07</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-05-18</TD>
+    <TD>admissions.ljku.edu.in</TD>
+    <TD>admissions.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=247115">C=US, O=Amazon, CN=Amazon RSA 2048 M02</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=6991098008">6991098008</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2022-06-23</TD>
+    <TD style="text-align:center;white-space:nowrap">2022-06-23</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-07-23</TD>
+    <TD>ljku.edu.in</TD>
+    <TD>ljku.edu.in<BR>www.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=904">C=US, ST=Arizona, L=Scottsdale, O=&quot;GoDaddy.com, Inc.&quot;, OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=6625386042">6625386042</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2022-04-28</TD>
+    <TD style="text-align:center;white-space:nowrap">2022-04-19</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-05-18</TD>
+    <TD>admissions.ljku.edu.in</TD>
+    <TD>admissions.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=9324">C=US, O=Amazon, OU=Server CA 1B, CN=Amazon</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=6571813896">6571813896</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2022-04-19</TD>
+    <TD style="text-align:center;white-space:nowrap">2022-04-19</TD>
+    <TD style="text-align:center;white-space:nowrap">2023-05-18</TD>
+    <TD>admissions.ljku.edu.in</TD>
+    <TD>admissions.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=9324">C=US, O=Amazon, OU=Server CA 1B, CN=Amazon</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=4759679103">4759679103</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2021-06-25</TD>
+    <TD style="text-align:center;white-space:nowrap">2021-06-25</TD>
+    <TD style="text-align:center;white-space:nowrap">2022-07-23</TD>
+    <TD>ljku.edu.in</TD>
+    <TD>ljku.edu.in<BR>www.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=904">C=US, ST=Arizona, L=Scottsdale, O=&quot;GoDaddy.com, Inc.&quot;, OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=3147815160">3147815160</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2020-07-27</TD>
+    <TD style="text-align:center;white-space:nowrap">2020-07-25</TD>
+    <TD style="text-align:center;white-space:nowrap">2021-07-23</TD>
+    <TD>ljku.edu.in</TD>
+    <TD>ljku.edu.in<BR>www.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=904">C=US, ST=Arizona, L=Scottsdale, O=&quot;GoDaddy.com, Inc.&quot;, OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=3137670942">3137670942</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2020-07-25</TD>
+    <TD style="text-align:center;white-space:nowrap">2020-07-25</TD>
+    <TD style="text-align:center;white-space:nowrap">2021-07-23</TD>
+    <TD>ljku.edu.in</TD>
+    <TD>ljku.edu.in<BR>www.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=904">C=US, ST=Arizona, L=Scottsdale, O=&quot;GoDaddy.com, Inc.&quot;, OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2</A></TD>
+  </TR>
+
+  <TR>
+    <TD style="text-align:center"><A href="?id=3127990048">3127990048</A></TD>
+    <TD style="text-align:center;white-space:nowrap">2020-07-23</TD>
+    <TD style="text-align:center;white-space:nowrap">2020-07-23</TD>
+    <TD style="text-align:center;white-space:nowrap">2021-07-23</TD>
+    <TD>ljku.edu.in</TD>
+    <TD>ljku.edu.in<BR>www.ljku.edu.in</TD>
+    <TD><A style="white-space:normal" href="?caid=904">C=US, ST=Arizona, L=Scottsdale, O=&quot;GoDaddy.com, Inc.&quot;, OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2</A></TD>
+  </TR>
+
+</TABLE>
+</TD>
+  </TR>
+</TABLE>
+
+  <BR><BR><BR>
+
+  <P class="copyright">&copy; <A href="//sectigo.com/">Sectigo</A> Limited 2015-2025. All rights reserved.</P>
+  <DIV>
+    <A href="https://sectigo.com/"><IMG src="/sectigo_s.png"></A>
+    &nbsp;<A href="https://github.com/crtsh"><IMG src="/GitHub-Mark-32px.png"></A>
+  </DIV>
+</BODY>
+</HTML>
+
+--- HTTP Headers ---
+HTTP/1.1 200 OK
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 29 Aug 2025 16:19:50 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 173939
+Connection: keep-alive
+Set-Cookie: frontend_lang=en_US; Path=/
+Set-Cookie: session_id=23eba1bf22081a76a8c64d497dc5a6dc9d98a585; Expires=Thu, 27-Nov-2025 16:19:50 GMT; Max-Age=7776000; HttpOnly; Path=/
+Strict-Transport-Security: max-age=15768000
+
+
+
+--- SSL Certificate Info ---
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN=*.ljku.edu.in
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Mar 21 06:41:21 2025 GMT; NotAfter: Apr  6 04:14:18 2026 GMT
+ 1 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+   i:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: May  3 07:00:00 2011 GMT; NotAfter: May  3 07:00:00 2031 GMT
+ 2 s:C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., CN=Go Daddy Root Certificate Authority - G2
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: RSA, 2048 (bit); sigalg: sha256WithRSAEncryption
+   v:NotBefore: Jan  1 07:00:00 2014 GMT; NotAfter: May 30 07:00:00 2031 GMT
+ 3 s:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   i:C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority
+   a:PKEY: RSA, 2048 (bit); sigalg: sha1WithRSAEncryption
+   v:NotBefore: Jun 29 17:06:20 2004 GMT; NotAfter: Jun 29 17:06:20 2034 GMT
+---
+Server certificate
+-----BEGIN CERTIFICATE-----
+MIIGjTCCBXWgAwIBAgIIV7rjIlIdYfcwDQYJKoZIhvcNAQELBQAwgbQxCzAJBgNV
+BAYTAlVTMRAwDgYDVQQIEwdBcml6b25hMRMwEQYDVQQHEwpTY290dHNkYWxlMRow
+GAYDVQQKExFHb0RhZGR5LmNvbSwgSW5jLjEtMCsGA1UECxMkaHR0cDovL2NlcnRz
+LmdvZGFkZHkuY29tL3JlcG9zaXRvcnkvMTMwMQYDVQQDEypHbyBEYWRkeSBTZWN1
+cmUgQ2VydGlmaWNhdGUgQXV0aG9yaXR5IC0gRzIwHhcNMjUwMzIxMDY0MTIxWhcN
+MjYwNDA2MDQxNDE4WjAYMRYwFAYDVQQDDA0qLmxqa3UuZWR1LmluMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtas5xj0V8wgZDSSfv7QXTRl0GaVc6+1O
++Gmu5bUGyPCI7caZE7yPAVR4ufAlQoVOCbmezZoB7db/vsrmF5XUNoiiD2Npju0G
+6Fn3zpV1r9pOjtCuOC5YzMcD49r/0tZLdouzNtchjAt+giEsdKGdCm/2JzoKKZ/M
+vQb8y87d1Xf0RJUTAPe15Gek1gVPJTA3oe2s/f7xdvohXa35DMSYAGo1qCvhwv/B
+1u4ZKdqQdsVAwj/zh1XneGh7ApOytK5N0YyHtqWW4kOP6ztXAggOa5OzIvykCYod
+2pU0tFDFhQt20X5rawkjL6y17/arXcgkPDnLEKEBIt+LTeQ/Ja4YaQIDAQABo4ID
+PDCCAzgwDAYDVR0TAQH/BAIwADAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+AwIwDgYDVR0PAQH/BAQDAgWgMDkGA1UdHwQyMDAwLqAsoCqGKGh0dHA6Ly9jcmwu
+Z29kYWRkeS5jb20vZ2RpZzJzMS00MjAzNC5jcmwwXQYDVR0gBFYwVDBIBgtghkgB
+hv1tAQcXATA5MDcGCCsGAQUFBwIBFitodHRwOi8vY2VydGlmaWNhdGVzLmdvZGFk
+ZHkuY29tL3JlcG9zaXRvcnkvMAgGBmeBDAECATB2BggrBgEFBQcBAQRqMGgwJAYI
+KwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmdvZGFkZHkuY29tLzBABggrBgEFBQcwAoY0
+aHR0cDovL2NlcnRpZmljYXRlcy5nb2RhZGR5LmNvbS9yZXBvc2l0b3J5L2dkaWcy
+LmNydDAfBgNVHSMEGDAWgBRAwr0njsw0gzCiM9f7bLPwtCyAzjAlBgNVHREEHjAc
+gg0qLmxqa3UuZWR1Lmluggtsamt1LmVkdS5pbjAdBgNVHQ4EFgQUBQeE+YymUj8t
+Q/5dOKmMEfWEOkEwggF+BgorBgEEAdZ5AgQCBIIBbgSCAWoBaAB2AA5XlLzzrqk+
+MxssmQez95Dfm8I9cTIl3SGpJaxhxU4hAAABlbdvd0AAAAQDAEcwRQIhAKlrklco
+nyS8rdZJrOwJAiXZMmqLOIT3W9fx6BRfKqBdAiBZBXCsEOghGKq522glqXXWIS5O
+QAMBrzK5Xg425ayzFAB2AGQRxGykEuyniRyiAi4AvKtPKAfUHjUnq+r+1QPJfc3w
+AAABlbdveHoAAAQDAEcwRQIhANKOyy6fPK/vo/u7f7p5+WobWJ5P3uzuoDiU/mrM
+OlyGAiAu9+jSJ6tUU9pHgpsSOjqYzDP+YvNLJk4/BpoY5bSJ8QB2AMs49xWJfISh
+RF9bwd37yW7ymlnNRwppBYWwyxTDFFjnAAABlbdvebgAAAQDAEcwRQIhAKJoHdRe
+dQvzyXDjqfhsMOGYBeP7QTnHbwbePKB4LdSoAiBzQ0jgIkbMaqpqgby2mrcH6Nyj
+lD9W/pPSrSFexpJWXTANBgkqhkiG9w0BAQsFAAOCAQEAX4V8cX+BUHlNwjRtHvYZ
+zqOqE0dRF5XJ2JKsD98TZ8CCw57CBITlW/1pozRDUQkYhiTVNH7NQO4Ga87XEsD5
+01I/FhLp400ocxgfoGh8U0Zo6ZZBWPqx1CtwkvoXxAgjsQfLRJXeOWRguxbSrUFt
+mj/fetCXMX7cituUkTHhZ/T7hELkJSR/K9yMxhfgjEqVlCWmqI5BVB3fBf3tFE7/
+VI79/i52P3wtWyjiqS7T9YYO4KUxlNHmF7Vh2PzkeWivm0Oj5af2CVOUvDiqg/08
+E5O9nN1JAHXaGBG2e4BoSduJO1ZpNh8TyDh73Dm8t9YLCuTWmnvIVdBPLKlZmvy5
+8Q==
+-----END CERTIFICATE-----
+subject=CN=*.ljku.edu.in
+issuer=C=US, ST=Arizona, L=Scottsdale, O=GoDaddy.com, Inc., OU=http://certs.godaddy.com/repository/, CN=Go Daddy Secure Certificate Authority - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: rsa_pss_rsae_sha256
+Peer Temp Key: X25519, 253 bits
+---
+SSL handshake has read 5589 bytes and written 1773 bytes
+Verification: OK
+---
+New, TLSv1.2, Cipher is ECDHE-RSA-AES256-GCM-SHA384
+Protocol: TLSv1.2
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : ECDHE-RSA-AES256-GCM-SHA384
+    Session-ID: 7627086CD4A643C8337E6F563B78B5ED010CF900B1954CAD016F4CDFFB715748
+    Session-ID-ctx: 
+    Master-Key: 171D6ECDB3F3BC48E0305188441375F9B04F5E200EECC972B702F9FC0D83F741087CF8BE79CC6744D01CCFAE9FEBAE01
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1756484385
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: yes
+---
+

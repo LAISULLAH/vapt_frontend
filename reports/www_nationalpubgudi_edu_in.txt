@@ -1,0 +1,79 @@
+Generated: 2025-09-04T10:44:59.408881
+==================================================
+
+--- WHOIS ---
+WHOIS lookup failed.
+
+--- Subdomains (crt.sh) ---
+www.nationalpubgudi.edu.in
+
+--- DNS Records ---
+DNS lookup failed.
+
+--- HTTP Headers ---
+{'content-type': 'text/html; charset=UTF-8', 'link': '<https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,', 'html-cacheable': 'true', 'etag': 'W/"7ca306d82465ed0df2b1ff33b1826162"', 'content-language': 'en-US', 'strict-transport-security': 'max-age=86400', 'cache-control': 'public,max-age=0,must-revalidate', 'server': 'Pepyaka', 'x-content-type-options': 'nosniff', 'content-encoding': 'br', 'accept-ranges': 'bytes', 'age': '65429', 'date': 'Thu, 04 Sep 2025 10:46:02 GMT', 'x-served-by': 'cache-del21720-DEL', 'x-cache': 'HIT', 'vary': 'Accept-Encoding', 'server-timing': 'cache;desc=hit, varnish;desc=hit_hit, dc;desc=fastly_g', 'set-cookie': 'ssr-caching=cache#desc=hit#varnish=hit_hit#dc#desc=fastly_g; max-age=20', 'x-wix-request-id': '1756982762.802696368009355840', 'x-seen-by': 'yvSunuo/8ld62ehjr5B7kA==,WD1HRWp6HtwVKpzxLkVT7rxkNjrXdwdgtu6E0yACibU=,7U7NzZSqfMgd9YnjHLtUa7xkNjrXdwdgtu6E0yACibU=,m0j2EEknGIVUW/liY8BLLoPD7Wt0x0Tx9VXJuNIPEgr8v8cBhCntPM7PcrIAnRiP,2d58ifebGbosy5xc+FRalnwpiNU/hEIRTUYPadq2ZD5V/qYrRS8BBPzBtS/PGNpbpS+MQqVury0q41GDToOG+Q==,2UNV7KOq4oGjA5+PKsX47Hxxk2q/vecgxlcnT+jtFuQyIvXDwAgQnMaS/gEZIOGh', 'Content-Length': '145980', 'via': '1.1 google', 'glb-x-seen-by': 'bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'}
+
+--- SSL Certificate Info ---
+{'subject': ((('commonName', 'nationalpubgudi.edu.in'),),), 'issuer': ((('countryName', 'US'),), (('organizationName', 'Google Trust Services'),), (('commonName', 'WR1'),)), 'version': 3, 'serialNumber': '4FE7D0AB0DCC58A20E8E203E762883E7', 'notBefore': 'Aug 18 01:21:02 2025 GMT', 'notAfter': 'Nov 16 01:21:01 2025 GMT', 'subjectAltName': (('DNS', 'nationalpubgudi.edu.in'), ('DNS', 'www.nationalpubgudi.edu.in')), 'OCSP': ('http://o.pki.goog/s/wr1/T-c',), 'caIssuers': ('http://i.pki.goog/wr1.crt',), 'crlDistributionPoints': ('http://c.pki.goog/wr1/wsITvfp0cYo.crl',)}
+
+--- Nmap Scan ---
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-04 06:45 EDT
+Nmap scan report for www.nationalpubgudi.edu.in (34.149.87.45)
+Host is up (0.019s latency).
+rDNS record for 34.149.87.45: 45.87.149.34.bc.googleusercontent.com
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http
+443/tcp open  ssl/https Pepyaka
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port80-TCP:V=7.95%I=7%D=9/4%Time=68B96DED%P=x86_64-pc-linux-gnu%r(GetRe
+SF:quest,150,"HTTP/1\.0\x20403\x20Forbidden\r\ncontent-type:\x20text/html;
+SF:\x20charset=UTF-8\r\nContent-Length:\x20134\r\nvia:\x201\.1\x20google\r
+SF:\ndate:\x20Thu,\x2004\x20Sep\x202025\x2010:46:16\x20GMT\r\nglb-x-seen-b
+SF:y:\x20bS8wRlGzu0Hc\+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=\r\n\r\n<!doctype\x2
+SF:0html><meta\x20charset=\"utf-8\"><meta\x20name=viewport\x20content=\"wi
+SF:dth=device-width,\x20initial-scale=1\"><title>403</title>403\x20Forbidd
+SF:en")%r(HTTPOptions,150,"HTTP/1\.0\x20403\x20Forbidden\r\ncontent-type:\
+SF:x20text/html;\x20charset=UTF-8\r\nContent-Length:\x20134\r\nvia:\x201\.
+SF:1\x20google\r\ndate:\x20Thu,\x2004\x20Sep\x202025\x2010:46:16\x20GMT\r\
+SF:nglb-x-seen-by:\x20bS8wRlGzu0Hc\+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=\r\n\r\
+SF:n<!doctype\x20html><meta\x20charset=\"utf-8\"><meta\x20name=viewport\x2
+SF:0content=\"width=device-width,\x20initial-scale=1\"><title>403</title>4
+SF:03\x20Forbidden")%r(RTSPRequest,1AD,"HTTP/1\.0\x20400\x20Bad\x20Request
+SF:\r\nContent-Type:\x20text/html;\x20charset=UTF-8\r\nReferrer-Policy:\x2
+SF:0no-referrer\r\nContent-Length:\x20273\r\nDate:\x20Thu,\x2004\x20Sep\x2
+SF:02025\x2010:46:16\x20GMT\r\n\r\n\n<html><head>\n<meta\x20http-equiv=\"c
+SF:ontent-type\"\x20content=\"text/html;charset=utf-8\">\n<title>400\x20Ba
+SF:d\x20Request</title>\n</head>\n<body\x20text=#000000\x20bgcolor=#ffffff
+SF:>\n<h1>Error:\x20Bad\x20Request</h1>\n<h2>Your\x20client\x20has\x20issu
+SF:ed\x20a\x20malformed\x20or\x20illegal\x20request\.</h2>\n<h2></h2>\n</b
+SF:ody></html>\n")%r(FourOhFourRequest,150,"HTTP/1\.0\x20403\x20Forbidden\
+SF:r\ncontent-type:\x20text/html;\x20charset=UTF-8\r\nContent-Length:\x201
+SF:34\r\nvia:\x201\.1\x20google\r\ndate:\x20Thu,\x2004\x20Sep\x202025\x201
+SF:0:46:22\x20GMT\r\nglb-x-seen-by:\x20bS8wRlGzu0Hc\+WrYuHB8QIg44yfcdCMJRk
+SF:BoQ1h6Vjc=\r\n\r\n<!doctype\x20html><meta\x20charset=\"utf-8\"><meta\x2
+SF:0name=viewport\x20content=\"width=device-width,\x20initial-scale=1\"><t
+SF:itle>403</title>403\x20Forbidden")%r(DNSVersionBindReqTCP,B3,"HTTP/1\.0
+SF:\x20400\x20Bad\x20Request\r\nContent-Length:\x2054\r\nContent-Type:\x20
+SF:text/html;\x20charset=UTF-8\r\nDate:\x20Thu,\x2004\x20Sep\x202025\x2010
+SF::46:32\x20GMT\r\n\r\n<html><title>Error\x20400\x20\(Bad\x20Request\)!!1
+SF:</title></html>");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port443-TCP:V=7.95%T=SSL%I=7%D=9/4%Time=68B96E07%P=x86_64-pc-linux-gnu%
+SF:r(DNSVersionBindReqTCP,B3,"HTTP/1\.0\x20400\x20Bad\x20Request\r\nConten
+SF:t-Length:\x2054\r\nContent-Type:\x20text/html;\x20charset=UTF-8\r\nDate
+SF::\x20Thu,\x2004\x20Sep\x202025\x2010:46:41\x20GMT\r\n\r\n<html><title>E
+SF:rror\x20400\x20\(Bad\x20Request\)!!1</title></html>")%r(oracle-tns,B3,"
+SF:HTTP/1\.0\x20400\x20Bad\x20Request\r\nContent-Length:\x2054\r\nContent-
+SF:Type:\x20text/html;\x20charset=UTF-8\r\nDate:\x20Thu,\x2004\x20Sep\x202
+SF:025\x2010:47:24\x20GMT\r\n\r\n<html><title>Error\x20400\x20\(Bad\x20Req
+SF:uest\)!!1</title></html>");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 90.91 seconds
+
+
+--- Nikto Scan ---
+Nikto scan failed.
+

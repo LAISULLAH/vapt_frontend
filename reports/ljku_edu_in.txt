@@ -1,0 +1,244 @@
+Generated: 2025-09-25T05:42:11.747974+00:00
+Target: ljku.edu.in
+======================================================================
+
+--- WHOIS ---
+Domain Name: ljku.edu.in
+Registry Domain ID: DD6076B1FCC154988908DE2AB3F27B2C7-IN
+Registrar URL: http://www.ernet.in
+Updated Date: 2024-09-22T04:44:23.004Z
+Creation Date: 2019-11-11T05:26:11.756Z
+Registry Expiry Date: 2029-11-11T05:26:11.756Z
+Registrar: ERNET India
+Registrar IANA ID: 800068
+Registrar Abuse Contact Email: tejalt@eis.ernet.in
+Registrar Abuse Contact Phone: +91.1123358248
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: LOK JAGRUTI KENDRA UNIVERSITY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: 
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: IN
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Billing ID: REDACTED FOR PRIVACY
+Billing Name: REDACTED FOR PRIVACY
+Billing Organization: REDACTED FOR PRIVACY
+Billing Street: REDACTED FOR PRIVACY
+Billing City: REDACTED FOR PRIVACY
+Billing State/Province: REDACTED FOR PRIVACY
+Billing Postal Code: REDACTED FOR PRIVACY
+Billing Country: REDACTED FOR PRIVACY
+Billing Phone: REDACTED FOR PRIVACY
+Billing Fax: REDACTED FOR PRIVACY
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns05.domaincontrol.com
+Name Server: ns06.domaincontrol.com
+DNSSEC: unsigned
+URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf
+
+>>> Last update of WHOIS database: 2025-09-25T05:38:35.378Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+The WHOIS information provided in this page has been redacted
+in compliance with ICANN's Temporary Specification for gTLD
+Registration Data.
+
+The data in this record is provided by Tucows Registry for informational
+purposes only, and it does not guarantee its accuracy. Tucows Registry is
+authoritative for whois information in top-level domains it operates
+under contract with the Internet Corporation for Assigned Names and
+Numbers. Whois information from other top-level domains is provided by
+a third-party under license to Tucows Registry.
+
+This service is intended only for query-based access. By using this
+service, you agree that you will use any data presented only for lawful
+purposes and that, under no circumstances will you use (a) data
+acquired for the purpose of allowing, enabling, or otherwise supporting
+the transmission by e-mail, telephone, facsimile or other
+communications mechanism of mass  unsolicited, commercial advertising
+or solicitations to entities other than your existing  customers; or
+(b) this service to enable high volume, automated, electronic processes
+that send queries or data to the systems of any Registrar or any
+Registry except as reasonably necessary to register domain names or
+modify existing domain name registrations.
+
+Tucows Registry reserves the right to modify these terms at any time. By
+submitting this query, you agree to abide by this policy. All rights
+reserved.
+
+
+--- Subdomains (crt.sh) ---
+*.ljku.edu.in
+ljku.edu.in
+admissions.ljku.edu.in
+cbl.ljku.edu.in
+cvl.ljku.edu.in
+delivery.nopaperforms.info.ljku.edu.in
+lfa.ljku.edu.in
+ljcvlcbl.ljku.edu.in
+ljku.edu.in
+www.ljku.edu.in
+mail.ljku.edu.in
+mail.ljku.edu.in
+www.mail.ljku.edu.in
+phd.ljku.edu.in
+webmail.ljku.edu.in
+
+--- DNS Records ---
+97.74.85.233
+
+--- HTTP Headers ---
+https://ljku.edu.in -> 200
+Server: nginx/1.18.0 (Ubuntu)
+Date: Thu, 25 Sep 2025 05:38:58 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: frontend_lang=en_US; Path=/, session_id=ba062d08dcf62776e32bf03c6517ccaeb5f3bc1b; Expires=Wed, 24-Dec-2025 05:38:58 GMT; Max-Age=7776000; HttpOnly; Path=/
+Strict-Transport-Security: max-age=15768000
+Content-Encoding: gzip
+
+--- SSL Certificate Info ---
+{
+  "subject": [
+    [
+      [
+        "commonName",
+        "*.ljku.edu.in"
+      ]
+    ]
+  ],
+  "issuer": [
+    [
+      [
+        "countryName",
+        "US"
+      ]
+    ],
+    [
+      [
+        "stateOrProvinceName",
+        "Arizona"
+      ]
+    ],
+    [
+      [
+        "localityName",
+        "Scottsdale"
+      ]
+    ],
+    [
+      [
+        "organizationName",
+        "GoDaddy.com, Inc."
+      ]
+    ],
+    [
+      [
+        "organizationalUnitName",
+        "http://certs.godaddy.com/repository/"
+      ]
+    ],
+    [
+      [
+        "commonName",
+        "Go Daddy Secure Certificate Authority - G2"
+      ]
+    ]
+  ],
+  "version": 3,
+  "serialNumber": "57BAE322521D61F7",
+  "notBefore": "Mar 21 06:41:21 2025 GMT",
+  "notAfter": "Apr  6 04:14:18 2026 GMT",
+  "subjectAltName": [
+    [
+      "DNS",
+      "*.ljku.edu.in"
+    ],
+    [
+      "DNS",
+      "ljku.edu.in"
+    ]
+  ],
+  "OCSP": [
+    "http://ocsp.godaddy.com/"
+  ],
+  "caIssuers": [
+    "http://certificates.godaddy.com/repository/gdig2.crt"
+  ],
+  "crlDistributionPoints": [
+    "http://crl.godaddy.com/gdig2s1-42034.crl"
+  ]
+}
+
+--- Nmap Scan ---
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-25 01:38 EDT
+Nmap scan report for ljku.edu.in (97.74.85.233)
+Host is up (0.11s latency).
+rDNS record for 97.74.85.233: 233.85.74.97.host.secureserver.net
+Not shown: 989 closed tcp ports (reset)
+PORT     STATE    SERVICE      VERSION
+22/tcp   open     ssh          OpenSSH 8.2p1 Ubuntu 4ubuntu0.11 (Ubuntu Linux; protocol 2.0)
+80/tcp   open     http         nginx 1.18.0 (Ubuntu)
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+443/tcp  open     ssl/http     nginx 1.18.0 (Ubuntu)
+445/tcp  filtered microsoft-ds
+631/tcp  filtered ipp
+1022/tcp filtered exp2
+1023/tcp filtered netvenuechat
+1026/tcp filtered LSA-or-nterm
+9898/tcp filtered monkeycom
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 32.94 seconds
+
+
+--- Nikto Scan ---
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          97.74.85.233
++ Target Hostname:    ljku.edu.in
++ Target Port:        80
++ Start Time:         2025-09-25 01:39:34 (GMT-4)
+---------------------------------------------------------------------------
++ Server: nginx/1.18.0 (Ubuntu)
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ Root page / redirects to: https://ljku.edu.in/
++ No CGI Directories found (use '-C all' to force check all possible dirs)
++ nginx/1.18.0 appears to be outdated (current is at least 1.20.1).
+
+
+
+
+[Live log saved here: reports/ljku_edu_in_live.log]

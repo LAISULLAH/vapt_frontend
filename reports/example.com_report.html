@@ -1,0 +1,136 @@
+<html><head><meta charset='utf-8'><title>OSINT example.com</title></head><body>
+        <h1>OSINT Report - example.com</h1>
+        <p>Generated: 2025-08-29T15:21:27.112172+00:00</p>
+        <h2>AI Summary</h2><pre>AI Summary for example.com (generated 2025-08-29T15:21:27.112172+00:00)
+⚠️ SPF record missing.
+• 10 subdomains found (crt.sh).
+
+Overall Risk: LOW</pre>
+        <h2>Subdomains (10)</h2><pre>as207960 test intermediate - example.com
+dev.example.com
+example.com
+m.example.com
+m.testexample.com
+products.example.com
+subjectname@example.com
+support.example.com
+user@example.com
+www.example.com</pre>
+        <h2>DNS</h2><pre>{
+  "A": [],
+  "AAAA": [],
+  "MX": [],
+  "NS": [],
+  "TXT": [
+    "25S: for: ['dig', 'example.com', 'ANY', '+noall', '+answer']"
+  ],
+  "CNAME": []
+}</pre>
+        <h2>HTTP Hosts (sample)</h2><pre>[
+  {
+    "host": "example.com",
+    "url": "https://example.com",
+    "status": 200,
+    "server": null,
+    "title": "Example Domain",
+    "reachable": true
+  },
+  {
+    "host": "as207960",
+    "url": null,
+    "status": null,
+    "server": null,
+    "title": null,
+    "reachable": false
+  },
+  {
+    "host": "test",
+    "url": null,
+    "status": null,
+    "server": null,
+    "title": null,
+    "reachable": false
+  },
+  {
+    "host": "intermediate",
+    "url": null,
+    "status": null,
+    "server": null,
+    "title": null,
+    "reachable": false
+  },
+  {
+    "host": "-",
+    "url": null,
+    "status": null,
+    "server": null,
+    "title": null,
+    "reachable": false
+  },
+  {
+    "host": "dev.example.com",
+    "url": null,
+    "status": null,
+    "server": null,
+    "title": null,
+    "reachable": false
+  },
+  {
+    "host": "m.example.com",
+    "url": null,
+    "status": null,
+    "server": null,
+    "title": null,
+    "reachable": false
+  },
+  {
+    "host": "m.testexample.com",
+    "url": "http://m.testexample.com",
+    "status": 200,
+    "server": null,
+    "title": null,
+    "reachable": true
+  },
+  {
+    "host": "products.example.com",
+    "url": null,
+    "status": null,
+    "server": null,
+    "title": null,
+    "reachable": false
+  },
+  {
+    "host": "subjectname@example.com",
+    "url": "https://subjectname@example.com",
+    "status": 200,
+    "server": null,
+    "title": "Example Domain",
+    "reachable": true
+  },
+  {
+    "host": "support.example.com",
+    "url": null,
+    "status": null,
+    "server": null,
+    "title": null,
+    "reachable": false
+  },
+  {
+    "host": "user@example.com",
+    "url": "https://user@example.com",
+    "status": 200,
+    "server": null,
+    "title": "Example Domain",
+    "reachable": true
+  },
+  {
+    "host": "www.example.com",
+    "url": "https://www.example.com",
+    "status": 200,
+    "server": null,
+    "title": "Example Domain",
+    "reachable": true
+  }
+]</pre>
+        <h2>Nmap (quick)</h2><pre>[!] TIMEOUT after 25s for: ['nmap', '--top-ports', '100', '-sV', '-oN', '-', 'example.com']</pre>
+        </body></html>

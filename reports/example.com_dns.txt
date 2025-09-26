@@ -1,0 +1,7 @@
+;; Connection to 192.168.1.1#53(192.168.1.1) for example.com failed: timed out.
+;; no servers could be reached
+;; Connection to 192.168.1.1#53(192.168.1.1) for example.com failed: timed out.
+;; no servers could be reached
+;; Connection to 192.168.1.1#53(192.168.1.1) for example.com failed: timed out.
+;; Connection to fe80::26de:8aff:fed0:3c31%2#53(fe80::26de:8aff:fed0:3c31%2%2) for example.com failed: timed out.
+;; no servers could be reached

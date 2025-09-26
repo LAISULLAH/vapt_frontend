@@ -1,0 +1,1 @@
+[!] TIMEOUT after 180s for: ['nikto', '-host', 'http://example.com']

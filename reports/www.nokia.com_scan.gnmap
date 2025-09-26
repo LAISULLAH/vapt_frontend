@@ -1,0 +1,2 @@
+# Nmap 7.95 scan initiated Thu Sep  4 02:16:22 2025 as: /usr/lib/nmap/nmap --privileged -sV -A -oN reports/www.nokia.com_scan.txt -oX reports/www.nokia.com_scan.xml -oG reports/www.nokia.com_scan.gnmap www.nokia.com
+# Nmap done at Thu Sep  4 02:16:35 2025 -- 0 IP addresses (0 hosts up) scanned in 12.65 seconds
