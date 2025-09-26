@@ -1,0 +1,259 @@
+{
+  "target": "example.com",
+  "generated": "2025-08-29T15:21:27.112172+00:00",
+  "whois_raw": "reports/raw/example.com_whois.raw.txt",
+  "whois_text": "[!] TIMEOUT after 25s for: ['whois', 'example.com']",
+  "crtsh_raw": "reports/raw/example.com_crtsh.raw.json",
+  "subdomains": [
+    "as207960 test intermediate - example.com",
+    "dev.example.com",
+    "example.com",
+    "m.example.com",
+    "m.testexample.com",
+    "products.example.com",
+    "subjectname@example.com",
+    "support.example.com",
+    "user@example.com",
+    "www.example.com"
+  ],
+  "dns_raw": "reports/raw/example.com_dns.raw.txt",
+  "dns": {
+    "A": [],
+    "AAAA": [],
+    "MX": [],
+    "NS": [],
+    "TXT": [
+      "25S: for: ['dig', 'example.com', 'ANY', '+noall', '+answer']"
+    ],
+    "CNAME": []
+  },
+  "email_security": {
+    "has_spf": false,
+    "spf": [],
+    "has_dmarc": true,
+    "dmarc": "\"v=DMARC1;p=reject;sp=reject;adkim=s;aspf=s\""
+  },
+  "nmap_raw": "[!] TIMEOUT after 25s for: ['nmap', '--top-ports', '100', '-sV', '-oN', '-', 'example.com']",
+  "nmap_path": "reports/raw/example.com_nmap_quick.raw.txt",
+  "subdomain_details": [
+    {
+      "host": "example.com",
+      "resolved": true,
+      "ips": [
+        "23.192.228.80",
+        "23.192.228.84",
+        "23.215.0.136",
+        "23.215.0.138",
+        "23.220.75.232",
+        "23.220.75.245"
+      ],
+      "cname": null,
+      "takeover_risk": false
+    },
+    {
+      "host": "as207960",
+      "resolved": false,
+      "ips": [],
+      "cname": null,
+      "takeover_risk": false
+    },
+    {
+      "host": "test",
+      "resolved": false,
+      "ips": [],
+      "cname": null,
+      "takeover_risk": false
+    },
+    {
+      "host": "intermediate",
+      "resolved": false,
+      "ips": [],
+      "cname": null,
+      "takeover_risk": false
+    },
+    {
+      "host": "-",
+      "resolved": true,
+      "ips": [
+        "Invalid option: -",
+        "Usage:  dig [@global-server] [domain] [q-type] [q-class] {q-opt}",
+        "{global-d-opt} host [@local-server] {local-d-opt}",
+        "[ host [@local-server] {local-d-opt} [...]]",
+        "Use \"dig -h\" (or \"dig -h | more\") for complete list of options"
+      ],
+      "cname": null,
+      "takeover_risk": false
+    },
+    {
+      "host": "dev.example.com",
+      "resolved": false,
+      "ips": [],
+      "cname": null,
+      "takeover_risk": false
+    },
+    {
+      "host": "m.example.com",
+      "resolved": false,
+      "ips": [],
+      "cname": null,
+      "takeover_risk": false
+    },
+    {
+      "host": "m.testexample.com",
+      "resolved": true,
+      "ips": [
+        "13.248.169.48",
+        "76.223.54.146"
+      ],
+      "cname": null,
+      "takeover_risk": false
+    },
+    {
+      "host": "products.example.com",
+      "resolved": false,
+      "ips": [],
+      "cname": null,
+      "takeover_risk": false
+    },
+    {
+      "host": "subjectname@example.com",
+      "resolved": false,
+      "ips": [],
+      "cname": null,
+      "takeover_risk": false
+    },
+    {
+      "host": "support.example.com",
+      "resolved": false,
+      "ips": [],
+      "cname": null,
+      "takeover_risk": false
+    },
+    {
+      "host": "user@example.com",
+      "resolved": false,
+      "ips": [],
+      "cname": null,
+      "takeover_risk": false
+    },
+    {
+      "host": "www.example.com",
+      "resolved": true,
+      "ips": [
+        "www.example.com-v4.edgesuite.net.",
+        "a1422.dscr.akamai.net.",
+        "184.25.109.147",
+        "184.25.109.185"
+      ],
+      "cname": "www.example.com-v4.edgesuite.net.",
+      "takeover_risk": false
+    }
+  ],
+  "http_hosts": [
+    {
+      "host": "example.com",
+      "url": "https://example.com",
+      "status": 200,
+      "server": null,
+      "title": "Example Domain",
+      "reachable": true
+    },
+    {
+      "host": "as207960",
+      "url": null,
+      "status": null,
+      "server": null,
+      "title": null,
+      "reachable": false
+    },
+    {
+      "host": "test",
+      "url": null,
+      "status": null,
+      "server": null,
+      "title": null,
+      "reachable": false
+    },
+    {
+      "host": "intermediate",
+      "url": null,
+      "status": null,
+      "server": null,
+      "title": null,
+      "reachable": false
+    },
+    {
+      "host": "-",
+      "url": null,
+      "status": null,
+      "server": null,
+      "title": null,
+      "reachable": false
+    },
+    {
+      "host": "dev.example.com",
+      "url": null,
+      "status": null,
+      "server": null,
+      "title": null,
+      "reachable": false
+    },
+    {
+      "host": "m.example.com",
+      "url": null,
+      "status": null,
+      "server": null,
+      "title": null,
+      "reachable": false
+    },
+    {
+      "host": "m.testexample.com",
+      "url": "http://m.testexample.com",
+      "status": 200,
+      "server": null,
+      "title": null,
+      "reachable": true
+    },
+    {
+      "host": "products.example.com",
+      "url": null,
+      "status": null,
+      "server": null,
+      "title": null,
+      "reachable": false
+    },
+    {
+      "host": "subjectname@example.com",
+      "url": "https://subjectname@example.com",
+      "status": 200,
+      "server": null,
+      "title": "Example Domain",
+      "reachable": true
+    },
+    {
+      "host": "support.example.com",
+      "url": null,
+      "status": null,
+      "server": null,
+      "title": null,
+      "reachable": false
+    },
+    {
+      "host": "user@example.com",
+      "url": "https://user@example.com",
+      "status": 200,
+      "server": null,
+      "title": "Example Domain",
+      "reachable": true
+    },
+    {
+      "host": "www.example.com",
+      "url": "https://www.example.com",
+      "status": 200,
+      "server": null,
+      "title": "Example Domain",
+      "reachable": true
+    }
+  ],
+  "ai_summary": "AI Summary for example.com (generated 2025-08-29T15:21:27.112172+00:00)\n\u26a0\ufe0f SPF record missing.\n\u2022 10 subdomains found (crt.sh).\n\nOverall Risk: LOW"
+}

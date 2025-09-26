@@ -1,0 +1,241 @@
+{
+  "target": "ljku.edu.in",
+  "generated": "2025-08-29T15:25:44.938840+00:00",
+  "whois_raw": "reports/raw/ljku.edu.in_whois.raw.txt",
+  "whois_text": "Domain Name: ljku.edu.in\nRegistry Domain ID: DD6076B1FCC154988908DE2AB3F27B2C7-IN\nRegistrar URL: http://www.ernet.in\nUpdated Date: 2024-09-22T04:44:23.004Z\nCreation Date: 2019-11-11T05:26:11.756Z\nRegistry Expiry Date: 2029-11-11T05:26:11.756Z\nRegistrar: ERNET India\nRegistrar IANA ID: 800068\nRegistrar Abuse Contact Email: tejalt@eis.ernet.in\nRegistrar Abuse Contact Phone: +91.1123358248\nDomain Status: ok https://icann.org/epp#ok\nRegistry Registrant ID: REDACTED FOR PRIVACY\nRegistrant Name: REDACTED FOR PRIVACY\nRegistrant Organization: LOK JAGRUTI KENDRA UNIVERSITY\nRegistrant Street: REDACTED FOR PRIVACY\nRegistrant City: REDACTED FOR PRIVACY\nRegistrant State/Province: \nRegistrant Postal Code: REDACTED FOR PRIVACY\nRegistrant Country: IN\nRegistrant Phone: REDACTED FOR PRIVACY\nRegistrant Fax: REDACTED FOR PRIVACY\nRegistrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.\nRegistry Admin ID: REDACTED FOR PRIVACY\nAdmin Name: REDACTED FOR PRIVACY\nAdmin Organization: REDACTED FOR PRIVACY\nAdmin Street: REDACTED FOR PRIVACY\nAdmin City: REDACTED FOR PRIVACY\nAdmin State/Province: REDACTED FOR PRIVACY\nAdmin Postal Code: REDACTED FOR PRIVACY\nAdmin Country: REDACTED FOR PRIVACY\nAdmin Phone: REDACTED FOR PRIVACY\nAdmin Fax: REDACTED FOR PRIVACY\nAdmin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.\nRegistry Tech ID: REDACTED FOR PRIVACY\nTech Name: REDACTED FOR PRIVACY\nTech Organization: REDACTED FOR PRIVACY\nTech Street: REDACTED FOR PRIVACY\nTech City: REDACTED FOR PRIVACY\nTech State/Province: REDACTED FOR PRIVACY\nTech Postal Code: REDACTED FOR PRIVACY\nTech Country: REDACTED FOR PRIVACY\nTech Phone: REDACTED FOR PRIVACY\nTech Fax: REDACTED FOR PRIVACY\nTech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.\nRegistry Billing ID: REDACTED FOR PRIVACY\nBilling Name: REDACTED FOR PRIVACY\nBilling Organization: REDACTED FOR PRIVACY\nBilling Street: REDACTED FOR PRIVACY\nBilling City: REDACTED FOR PRIVACY\nBilling State/Province: REDACTED FOR PRIVACY\nBilling Postal Code: REDACTED FOR PRIVACY\nBilling Country: REDACTED FOR PRIVACY\nBilling Phone: REDACTED FOR PRIVACY\nBilling Fax: REDACTED FOR PRIVACY\nBilling Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.\nName Server: ns05.domaincontrol.com\nName Server: ns06.domaincontrol.com\nDNSSEC: unsigned\nURL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf\n\n>>> Last update of WHOIS database: 2025-08-29T15:26:10.350Z <<<\n\nFor more information on domain status codes, please visit https://icann.org/epp\n\nThe WHOIS information provided in this page has been redacted\nin compliance with ICANN's Temporary Specification for gTLD\nRegistration Data.\n\nThe data in this record is provided by Tucows Registry for informational\npurposes only, and it does not guarantee its accuracy. Tucows Registry is\nauthoritative for whois information in top-level domains it operates\nunder contract with the Internet Corporation for Assigned Names and\nNumbers. Whois information from other top-level domains is provided by\na third-party under license to Tucows Registry.\n\nThis service is intended only for query-based access. By using this\nservice, you agree that you will use any data presented only for lawful\npurposes and that, under no circumstances will you use (a) data\nacquired for the purpose of allowing, enabling, or otherwise supporting\nthe transmission by e-mail, telephone, facsimile or other\ncommunications mechanism of mass  unsolicited, commercial advertising\nor solicitations to entities other than your existing  customers; or\n(b) this service to enable high volume, automated, electronic processes\nthat send queries or data to the systems of any Registrar or any\nRegistry except as reasonably necessary to register domain names or\nmodify existing domain name registrations.\n\nTucows Registry reserves the right to modify these terms at any time. By\nsubmitting this query, you agree to abide by this policy. All rights\nreserved.\n",
+  "crtsh_raw": "reports/raw/ljku.edu.in_crtsh.raw.json",
+  "subdomains": [
+    "admissions.ljku.edu.in",
+    "cbl.ljku.edu.in",
+    "cvl.ljku.edu.in",
+    "delivery.nopaperforms.info.ljku.edu.in",
+    "lfa.ljku.edu.in",
+    "ljcvlcbl.ljku.edu.in",
+    "ljku.edu.in",
+    "mail.ljku.edu.in",
+    "phd.ljku.edu.in",
+    "webmail.ljku.edu.in",
+    "www.ljku.edu.in",
+    "www.mail.ljku.edu.in"
+  ],
+  "dns_raw": "reports/raw/ljku.edu.in_dns.raw.txt",
+  "dns": {
+    "A": [],
+    "AAAA": [],
+    "MX": [],
+    "NS": [],
+    "TXT": [
+      "25S: for: ['dig', 'ljku.edu.in', 'ANY', '+noall', '+answer']"
+    ],
+    "CNAME": []
+  },
+  "email_security": {
+    "has_spf": false,
+    "spf": [],
+    "has_dmarc": false,
+    "dmarc": null
+  },
+  "nmap_raw": "# Nmap 7.95 scan initiated Fri Aug 29 11:26:42 2025 as: /usr/lib/nmap/nmap --privileged --top-ports 100 -sV -oN - ljku.edu.in\nNmap scan report for ljku.edu.in (97.74.85.233)\nHost is up (0.14s latency).\nrDNS record for 97.74.85.233: 233.85.74.97.host.secureserver.net\nNot shown: 92 closed tcp ports (reset)\nPORT     STATE    SERVICE      VERSION\n22/tcp   open     ssh          OpenSSH 8.2p1 Ubuntu 4ubuntu0.11 (Ubuntu Linux; protocol 2.0)\n80/tcp   open     http         nginx 1.18.0 (Ubuntu)\n135/tcp  filtered msrpc\n139/tcp  filtered netbios-ssn\n443/tcp  open     ssl/http     nginx 1.18.0 (Ubuntu)\n445/tcp  filtered microsoft-ds\n631/tcp  filtered ipp\n1026/tcp filtered LSA-or-nterm\nService Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel\n\nService detection performed. Please report any incorrect results at https://nmap.org/submit/ .\n# Nmap done at Fri Aug 29 11:27:05 2025 -- 1 IP address (1 host up) scanned in 22.32 seconds\n",
+  "nmap_path": "reports/raw/ljku.edu.in_nmap_quick.raw.txt",
+  "subdomain_details": [
+    {
+      "host": "ljku.edu.in",
+      "resolved": true,
+      "ips": [
+        "97.74.85.233"
+      ],
+      "cname": null,
+      "takeover_risk": false
+    },
+    {
+      "host": "admissions.ljku.edu.in",
+      "resolved": true,
+      "ips": [
+        "ljku-639.nopaperforms.com.",
+        "prodvpc-all-in-one-lb-1885894793.ap-south-1.elb.amazonaws.com.",
+        "13.126.228.50",
+        "13.234.91.79",
+        "65.2.94.32"
+      ],
+      "cname": "ljku-639.nopaperforms.com.",
+      "takeover_risk": false
+    },
+    {
+      "host": "cbl.ljku.edu.in",
+      "resolved": false,
+      "ips": [],
+      "cname": null,
+      "takeover_risk": false
+    },
+    {
+      "host": "cvl.ljku.edu.in",
+      "resolved": false,
+      "ips": [],
+      "cname": null,
+      "takeover_risk": false
+    },
+    {
+      "host": "delivery.nopaperforms.info.ljku.edu.in",
+      "resolved": true,
+      "ips": [
+        "eapi.sslind.netcorecloud.net.",
+        "107.178.250.77"
+      ],
+      "cname": "eapi.sslind.netcorecloud.net.",
+      "takeover_risk": false
+    },
+    {
+      "host": "lfa.ljku.edu.in",
+      "resolved": false,
+      "ips": [],
+      "cname": null,
+      "takeover_risk": false
+    },
+    {
+      "host": "ljcvlcbl.ljku.edu.in",
+      "resolved": false,
+      "ips": [],
+      "cname": null,
+      "takeover_risk": false
+    },
+    {
+      "host": "mail.ljku.edu.in",
+      "resolved": true,
+      "ips": [
+        "120.72.91.156"
+      ],
+      "cname": null,
+      "takeover_risk": false
+    },
+    {
+      "host": "phd.ljku.edu.in",
+      "resolved": false,
+      "ips": [],
+      "cname": null,
+      "takeover_risk": false
+    },
+    {
+      "host": "webmail.ljku.edu.in",
+      "resolved": false,
+      "ips": [],
+      "cname": null,
+      "takeover_risk": false
+    },
+    {
+      "host": "www.ljku.edu.in",
+      "resolved": true,
+      "ips": [
+        "ljku.edu.in.",
+        "97.74.85.233"
+      ],
+      "cname": "ljku.edu.in.",
+      "takeover_risk": false
+    },
+    {
+      "host": "www.mail.ljku.edu.in",
+      "resolved": false,
+      "ips": [],
+      "cname": null,
+      "takeover_risk": false
+    }
+  ],
+  "http_hosts": [
+    {
+      "host": "ljku.edu.in",
+      "url": "https://ljku.edu.in",
+      "status": 200,
+      "server": "nginx/1.18.0 (Ubuntu)",
+      "title": "Lok Jagruti University",
+      "reachable": true
+    },
+    {
+      "host": "admissions.ljku.edu.in",
+      "url": "https://admissions.ljku.edu.in",
+      "status": 200,
+      "server": "Apache",
+      "title": "LJU",
+      "reachable": true
+    },
+    {
+      "host": "cbl.ljku.edu.in",
+      "url": null,
+      "status": null,
+      "server": null,
+      "title": null,
+      "reachable": false
+    },
+    {
+      "host": "cvl.ljku.edu.in",
+      "url": null,
+      "status": null,
+      "server": null,
+      "title": null,
+      "reachable": false
+    },
+    {
+      "host": "delivery.nopaperforms.info.ljku.edu.in",
+      "url": "https://delivery.nopaperforms.info.ljku.edu.in",
+      "status": 404,
+      "server": "Google Frontend",
+      "title": "404 Not Found",
+      "reachable": true
+    },
+    {
+      "host": "lfa.ljku.edu.in",
+      "url": null,
+      "status": null,
+      "server": null,
+      "title": null,
+      "reachable": false
+    },
+    {
+      "host": "ljcvlcbl.ljku.edu.in",
+      "url": null,
+      "status": null,
+      "server": null,
+      "title": null,
+      "reachable": false
+    },
+    {
+      "host": "mail.ljku.edu.in",
+      "url": "https://mail.ljku.edu.in",
+      "status": 200,
+      "server": "nginx",
+      "title": "Zimbra Web Client Sign In",
+      "reachable": true
+    },
+    {
+      "host": "phd.ljku.edu.in",
+      "url": null,
+      "status": null,
+      "server": null,
+      "title": null,
+      "reachable": false
+    },
+    {
+      "host": "webmail.ljku.edu.in",
+      "url": null,
+      "status": null,
+      "server": null,
+      "title": null,
+      "reachable": false
+    },
+    {
+      "host": "www.ljku.edu.in",
+      "url": "https://www.ljku.edu.in",
+      "status": 200,
+      "server": "nginx/1.18.0 (Ubuntu)",
+      "title": "Lok Jagruti University",
+      "reachable": true
+    },
+    {
+      "host": "www.mail.ljku.edu.in",
+      "url": null,
+      "status": null,
+      "server": null,
+      "title": null,
+      "reachable": false
+    }
+  ],
+  "ai_summary": "AI Summary for ljku.edu.in (generated 2025-08-29T15:25:44.938840+00:00)\n\u2022 Registrar / ownership info present.\n\u2022 Domain creation/expiry dates visible.\n\u26a0\ufe0f SPF record missing.\n\u26a0\ufe0f DMARC missing.\n\u2022 12 subdomains found (crt.sh).\n\u2022 Nmap detected open services \u2014 review quickly.\n\nOverall Risk: MEDIUM"
+}

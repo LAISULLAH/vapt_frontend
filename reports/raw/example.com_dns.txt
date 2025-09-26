@@ -1,0 +1,1 @@
+[!] TIMEOUT after 25s for: ['dig', 'example.com', 'ANY', '+noall', '+answer']

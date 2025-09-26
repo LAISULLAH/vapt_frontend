@@ -1,0 +1,581 @@
+Generated: 2025-09-04T05:28:17.107697
+==================================================
+
+--- WHOIS ---
+   Domain Name: YOUTUBE.COM
+   Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-01-14T10:06:34Z
+   Creation Date: 2005-02-15T05:13:12Z
+   Registry Expiry Date: 2026-02-15T05:13:12Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.GOOGLE.COM
+   Name Server: NS2.GOOGLE.COM
+   Name Server: NS3.GOOGLE.COM
+   Name Server: NS4.GOOGLE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-09-04T05:28:03Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain Name: youtube.com
+Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2025-01-14T10:06:34+0000
+Creation Date: 2005-02-15T05:13:12+0000
+Registrar Registration Expiration Date: 2026-02-15T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Name Server: ns1.google.com
+Name Server: ns4.google.com
+Name Server: ns3.google.com
+Name Server: ns2.google.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-09-04T05:27:51+0000 <<<
+
+For more information on WHOIS status codes, please visit:
+  https://www.icann.org/resources/pages/epp-status-codes
+
+If you wish to contact this domain’s Registrant or Technical
+contact, and such email address is not visible above, you may do so via our web
+form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+robot, please enter your email address to receive a link to a page that
+facilitates email communication with the relevant contact(s).
+
+Web-based WHOIS:
+  https://domains.markmonitor.com/whois/contact/youtube.com
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send
+your request and the reasons for your request to whoisrequest@markmonitor.com
+and specify the domain name in the subject line. We will review that request and
+may ask for supporting documentation and explanation.
+
+The data in MarkMonitor’s WHOIS database is provided for information purposes,
+and to assist persons in obtaining information about or related to a domain
+name’s registration record. While MarkMonitor believes the data to be accurate,
+the data is provided "as is" with no guarantee or warranties regarding its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+  (1) allow, enable, or otherwise support the transmission by email, telephone,
+or facsimile of mass, unsolicited, commercial advertising, or spam; or
+  (2) enable high volume, automated, or electronic processes that send queries,
+data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+its systems).
+
+MarkMonitor reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by this policy.
+
+MarkMonitor Domain Management(TM)
+Protecting companies and consumers in a digital world.
+
+Visit MarkMonitor at https://www.markmonitor.com
+Contact us at +1.8007459229
+In Europe, at +44.02032062220
+--
+
+
+--- Subdomains (crt.sh) ---
+*.c.youtube.com
+*.cache1.c.youtube.com
+*.cache2.c.youtube.com
+*.cache3.c.youtube.com
+*.cache4.c.youtube.com
+*.cache5.c.youtube.com
+*.cache6.c.youtube.com
+*.cache7.c.youtube.com
+*.cache8.c.youtube.com
+*.c.youtube.com
+*.cctldtest.youtube.com
+cctldtest.youtube.com
+*.gdata.youtube.com
+uploads.stage.gdata.youtube.com
+upload.youtube.com
+*.sandbox.youtube.com
+*.youtube.com
+*.youtube.com
+youtube.com
+admin.youtube.com
+admin.youtube.com
+uberproxy-san.youtube.com
+ads.youtube.com
+cms.youtube.com
+cyc.youtube.com
+misc-sni.youtube.com
+*.youtube.com
+youtube.com
+*.youtube.com.ar
+youtube.com.ar
+*.youtube.com.au
+youtube.com.au
+*.youtube.com.az
+youtube.com.az
+*.youtube.com.bd
+youtube.com.bd
+*.youtube.com.bh
+youtube.com.bh
+*.youtube.com.bo
+youtube.com.bo
+*.youtube.com.br
+youtube.com.br
+*.youtube.com.by
+youtube.com.by
+*.youtube.com.co
+youtube.com.co
+*.youtube.com.do
+youtube.com.do
+*.youtube.com.ee
+youtube.com.ee
+*.youtube.com.eg
+youtube.com.eg
+*.youtube.com.es
+youtube.com.es
+*.youtube.com.gh
+youtube.com.gh
+*.youtube.com.gr
+youtube.com.gr
+*.youtube.com.gt
+youtube.com.gt
+*.youtube.com.hk
+youtube.com.hk
+*.youtube.com.hr
+youtube.com.hr
+*.youtube.com.jm
+youtube.com.jm
+*.youtube.com.jo
+youtube.com.jo
+*.youtube.com.kw
+youtube.com.kw
+*.youtube.com.lb
+youtube.com.lb
+*.youtube.com.lv
+youtube.com.lv
+*.youtube.com.ly
+youtube.com.ly
+*.youtube.com.mk
+youtube.com.mk
+*.youtube.com.mt
+youtube.com.mt
+*.youtube.com.mx
+youtube.com.mx
+*.youtube.com.my
+youtube.com.my
+*.youtube.com.ng
+youtube.com.ng
+*.youtube.com.om
+youtube.com.om
+*.youtube.com.pe
+youtube.com.pe
+*.youtube.com.ph
+youtube.com.ph
+*.youtube.com.pk
+youtube.com.pk
+misc-sni.youtube.com
+*.youtube.com
+youtube.com
+*.youtube.com.ar
+youtube.com.ar
+*.youtube.com.au
+youtube.com.au
+*.youtube.com.az
+youtube.com.az
+*.youtube.com.bd
+youtube.com.bd
+*.youtube.com.bh
+youtube.com.bh
+*.youtube.com.bo
+youtube.com.bo
+*.youtube.com.br
+youtube.com.br
+*.youtube.com.by
+youtube.com.by
+*.youtube.com.co
+youtube.com.co
+*.youtube.com.do
+youtube.com.do
+*.youtube.com.ee
+youtube.com.ee
+*.youtube.com.eg
+youtube.com.eg
+*.youtube.com.es
+youtube.com.es
+*.youtube.com.gh
+youtube.com.gh
+*.youtube.com.gr
+youtube.com.gr
+*.youtube.com.gt
+youtube.com.gt
+*.youtube.com.hk
+youtube.com.hk
+*.youtube.com.hr
+youtube.com.hr
+*.youtube.com.jm
+youtube.com.jm
+*.youtube.com.jo
+youtube.com.jo
+*.youtube.com.kw
+youtube.com.kw
+*.youtube.com.lb
+youtube.com.lb
+*.youtube.com.lv
+youtube.com.lv
+*.youtube.com.ly
+youtube.com.ly
+*.youtube.com.mk
+youtube.com.mk
+*.youtube.com.mt
+youtube.com.mt
+*.youtube.com.mx
+youtube.com.mx
+*.youtube.com.my
+youtube.com.my
+*.youtube.com.ng
+youtube.com.ng
+*.youtube.com.om
+youtube.com.om
+*.youtube.com.pe
+youtube.com.pe
+*.youtube.com.ph
+youtube.com.ph
+*.youtube.com.pk
+youtube.com.pk
+*.youtube.com.pt
+youtube.com.pt
+*.youtube.com.qa
+youtube.com.qa
+*.youtube.com.ro
+youtube.com.ro
+*.youtube.com.sa
+youtube.com.sa
+*.youtube.com.sg
+youtube.com.sg
+*.youtube.com.tn
+youtube.com.tn
+*.youtube.com.tr
+youtube.com.tr
+*.youtube.com.tw
+youtube.com.tw
+*.youtube.com.ua
+youtube.com.ua
+*.youtube.com.uy
+youtube.com.uy
+*.youtube.com.ve
+youtube.com.ve
+misc-sni.youtube.com
+*.youtube.com
+youtube.com
+*.youtube.com.ar
+youtube.com.ar
+*.youtube.com.au
+youtube.com.au
+*.youtube.com.az
+youtube.com.az
+*.youtube.com.bh
+youtube.com.bh
+*.youtube.com.bo
+youtube.com.bo
+*.youtube.com.br
+youtube.com.br
+*.youtube.com.by
+youtube.com.by
+*.youtube.com.co
+youtube.com.co
+*.youtube.com.do
+youtube.com.do
+*.youtube.com.ee
+youtube.com.ee
+*.youtube.com.eg
+youtube.com.eg
+*.youtube.com.es
+youtube.com.es
+*.youtube.com.gh
+youtube.com.gh
+*.youtube.com.gr
+youtube.com.gr
+*.youtube.com.gt
+youtube.com.gt
+*.youtube.com.hk
+youtube.com.hk
+*.youtube.com.hr
+youtube.com.hr
+*.youtube.com.jm
+youtube.com.jm
+*.youtube.com.jo
+youtube.com.jo
+*.youtube.com.kw
+youtube.com.kw
+*.youtube.com.lb
+youtube.com.lb
+*.youtube.com.lv
+youtube.com.lv
+*.youtube.com.ly
+youtube.com.ly
+*.youtube.com.mk
+youtube.com.mk
+*.youtube.com.mt
+youtube.com.mt
+*.youtube.com.mx
+youtube.com.mx
+*.youtube.com.my
+youtube.com.my
+*.youtube.com.ng
+youtube.com.ng
+*.youtube.com.om
+youtube.com.om
+*.youtube.com.pe
+youtube.com.pe
+*.youtube.com.ph
+youtube.com.ph
+*.youtube.com.pk
+youtube.com.pk
+*.youtube.com.pt
+youtube.com.pt
+*.youtube.com.qa
+youtube.com.qa
+*.youtube.com.ro
+youtube.com.ro
+*.youtube.com.sa
+youtube.com.sa
+*.youtube.com.sg
+youtube.com.sg
+*.youtube.com.tn
+youtube.com.tn
+*.youtube.com.tr
+youtube.com.tr
+*.youtube.com.tw
+youtube.com.tw
+*.youtube.com.ua
+youtube.com.ua
+*.youtube.com.uy
+youtube.com.uy
+*.youtube.com.ve
+youtube.com.ve
+misc-sni.youtube.com
+*.youtube.com
+youtube.com
+*.youtube.com.ar
+youtube.com.ar
+*.youtube.com.au
+youtube.com.au
+*.youtube.com.az
+youtube.com.az
+*.youtube.com.bh
+youtube.com.bh
+*.youtube.com.bo
+youtube.com.bo
+*.youtube.com.br
+youtube.com.br
+*.youtube.com.by
+youtube.com.by
+*.youtube.com.co
+youtube.com.co
+*.youtube.com.do
+youtube.com.do
+*.youtube.com.ee
+youtube.com.ee
+*.youtube.com.eg
+youtube.com.eg
+*.youtube.com.es
+youtube.com.es
+*.youtube.com.gh
+youtube.com.gh
+*.youtube.com.gr
+youtube.com.gr
+*.youtube.com.gt
+youtube.com.gt
+*.youtube.com.hk
+youtube.com.hk
+*.youtube.com.hr
+youtube.com.hr
+*.youtube.com.jm
+youtube.com.jm
+*.youtube.com.jo
+youtube.com.jo
+*.youtube.com.kw
+youtube.com.kw
+*.youtube.com.lb
+youtube.com.lb
+*.youtube.com.lv
+youtube.com.lv
+*.youtube.com.mk
+youtube.com.mk
+*.youtube.com.mt
+youtube.com.mt
+*.youtube.com.mx
+youtube.com.mx
+*.youtube.com.my
+youtube.com.my
+*.youtube.com.ng
+youtube.com.ng
+*.youtube.com.om
+youtube.com.om
+*.youtube.com.pe
+youtube.com.pe
+*.youtube.com.ph
+youtube.com.ph
+*.youtube.com.pk
+youtube.com.pk
+*.youtube.com.pt
+youtube.com.pt
+*.youtube.com.qa
+youtube.com.qa
+*.youtube.com.ro
+youtube.com.ro
+*.youtube.com.sa
+youtube.com.sa
+*.youtube.com.sg
+youtube.com.sg
+*.youtube.com.tn
+youtube.com.tn
+*.youtube.com.tr
+youtube.com.tr
+*.youtube.com.tw
+youtube.com.tw
+*.youtube.com.ua
+youtube.com.ua
+*.youtube.com.uy
+youtube.com.uy
+*.youtube.com.ve
+youtube.com.ve
+partner.youtube.com
+
+--- DNS Records ---
+DNS lookup failed.
+
+--- HTTP Headers ---
+{'Content-Type': 'text/html; charset=utf-8', 'X-Content-Type-Options': 'nosniff', 'Cache-Control': 'no-cache, no-store, max-age=0, must-revalidate', 'Pragma': 'no-cache', 'Expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'Date': 'Thu, 04 Sep 2025 05:28:44 GMT', 'X-Frame-Options': 'SAMEORIGIN', 'Strict-Transport-Security': 'max-age=31536000', 'Permissions-Policy': 'ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*', 'Content-Security-Policy': "require-trusted-types-for 'script'", 'Cross-Origin-Opener-Policy': 'same-origin-allow-popups; report-to="youtube_main"', 'Report-To': '{"group":"youtube_main","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube_main"}]}', 'Origin-Trial': 'AmhMBR6zCLzDDxpW+HfpP67BqwIknWnyMOXOQGfzYswFmJe+fgaI6XZgAzcxOrzNtP7hEDsOo1jdjFnVr2IdxQ4AAAB4eyJvcmlnaW4iOiJodHRwczovL3lvdXR1YmUuY29tOjQ0MyIsImZlYXR1cmUiOiJXZWJWaWV3WFJlcXVlc3RlZFdpdGhEZXByZWNhdGlvbiIsImV4cGlyeSI6MTc1ODA2NzE5OSwiaXNTdWJkb21haW4iOnRydWV9', 'reporting-endpoints': 'default="/web-reports?context=eJwNyV1IU2Ecx3Eff5J6znbOef5PJGmg6Hp3MhWN0kqSrCRj9Ia0ar60iTSnzm0tMIiIQhpRN5UVVhc1SbToQgo1o4hBN8LUoNQCrUSUXi6yMMuei8_N96u8SBjNOMk8Sw3MstvLHp9pZkfX-tjOoRZ2YbqFhcv8bP6Bn3X3-dlcRpA5MoPsxmiQeT6G2J-pEOswKuNDqZXxfUcUuN0KfrYr-DGuIPRNgWOjClOOCl0iabhcxdw-Fb0RFX1PVExMqwg4TPheZUJBwITGeRNm7GYMtJsRGzajetKM7IMaisMaOp9psEc1XJXqFjV8_auhcKuOnl06gi4dnR4dalDHzTYdudd1JN3TkRXRkfJGx4DFQFKVAUWK3TKQ-MjA-C8DRQsGvIsGjgmOwAaOwi0c57dz3D7EMeHkqKjjaG2VTdpxmWPbNY7BhxzpXRxj3RxpPRy1TzmWnnOIEY5VMxyTvznq_nFciSNoyYSGlYQv6wmhbEJ-PiFSSugtI7yXlsoJFQ5Ck5PgbSawswTTOUJiGyEWlq-D0BwhXOwkfOgnvBwkpA4RimOE6FuCZYwwPEGYkj5PETJnCSnzhH7JFiewP17AlyBgShYYUQWOLxdYWCFgTxUISxVpAiXpAl3S4QyB2SyBUovAntUCLsm-RgDrBO5nC0TzBe5sEnhXJDAtuUsEXpUK9O4VIDUpHP30eplx99LYgUzr6caAP1DjyjnlqrG6fY1ev9XlPWGt9dX762urPc48W16BbbMtNyfX5myy_QdKI7F7"', 'document-policy': 'include-js-call-stacks-in-crash-reports', 'P3P': 'CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en-GB for more info."', 'Content-Encoding': 'gzip', 'Server': 'ESF', 'X-XSS-Protection': '0', 'Set-Cookie': 'GPS=1; Domain=.youtube.com; Expires=Thu, 04-Sep-2025 05:58:44 GMT; Path=/; Secure; HttpOnly, YSC=AGnV0D1IFWU; Domain=.youtube.com; Path=/; Secure; HttpOnly; SameSite=none, __Secure-ROLLOUT_TOKEN=CLfa1oW26syzFRCEraT1r76PAxiEraT1r76PAw%3D%3D; Domain=youtube.com; Expires=Tue, 03-Mar-2026 05:28:44 GMT; Path=/; Secure; HttpOnly; SameSite=none; Partitioned, __Secure-YEC=; Domain=.youtube.com; Expires=Fri, 09-Dec-2022 05:28:44 GMT; Path=/; Secure; HttpOnly; SameSite=lax, VISITOR_INFO1_LIVE=peX-akIteds; Domain=.youtube.com; Expires=Tue, 03-Mar-2026 05:28:44 GMT; Path=/; Secure; HttpOnly; SameSite=none, VISITOR_PRIVACY_METADATA=CgJJThIEGgAgUQ%3D%3D; Domain=.youtube.com; Expires=Tue, 03-Mar-2026 05:28:44 GMT; Path=/; Secure; HttpOnly; SameSite=none', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'Transfer-Encoding': 'chunked'}
+
+--- SSL Certificate Info ---
+{'subject': ((('commonName', '*.google.com'),),), 'issuer': ((('countryName', 'US'),), (('organizationName', 'Google Trust Services'),), (('commonName', 'WR2'),)), 'version': 3, 'serialNumber': 'AD7A37A8F5254A62124B5EA09170A51A', 'notBefore': 'Aug 11 19:21:11 2025 GMT', 'notAfter': 'Nov  3 19:21:10 2025 GMT', 'subjectAltName': (('DNS', '*.google.com'), ('DNS', '*.appengine.google.com'), ('DNS', '*.bdn.dev'), ('DNS', '*.origin-test.bdn.dev'), ('DNS', '*.cloud.google.com'), ('DNS', '*.crowdsource.google.com'), ('DNS', '*.datacompute.google.com'), ('DNS', '*.google.ca'), ('DNS', '*.google.cl'), ('DNS', '*.google.co.in'), ('DNS', '*.google.co.jp'), ('DNS', '*.google.co.uk'), ('DNS', '*.google.com.ar'), ('DNS', '*.google.com.au'), ('DNS', '*.google.com.br'), ('DNS', '*.google.com.co'), ('DNS', '*.google.com.mx'), ('DNS', '*.google.com.tr'), ('DNS', '*.google.com.vn'), ('DNS', '*.google.de'), ('DNS', '*.google.es'), ('DNS', '*.google.fr'), ('DNS', '*.google.hu'), ('DNS', '*.google.it'), ('DNS', '*.google.nl'), ('DNS', '*.google.pl'), ('DNS', '*.google.pt'), ('DNS', '*.googleapis.cn'), ('DNS', '*.googlevideo.com'), ('DNS', '*.gstatic.cn'), ('DNS', '*.gstatic-cn.com'), ('DNS', 'googlecnapps.cn'), ('DNS', '*.googlecnapps.cn'), ('DNS', 'googleapps-cn.com'), ('DNS', '*.googleapps-cn.com'), ('DNS', 'gkecnapps.cn'), ('DNS', '*.gkecnapps.cn'), ('DNS', 'googledownloads.cn'), ('DNS', '*.googledownloads.cn'), ('DNS', 'recaptcha.net.cn'), ('DNS', '*.recaptcha.net.cn'), ('DNS', 'recaptcha-cn.net'), ('DNS', '*.recaptcha-cn.net'), ('DNS', 'widevine.cn'), ('DNS', '*.widevine.cn'), ('DNS', 'ampproject.org.cn'), ('DNS', '*.ampproject.org.cn'), ('DNS', 'ampproject.net.cn'), ('DNS', '*.ampproject.net.cn'), ('DNS', 'google-analytics-cn.com'), ('DNS', '*.google-analytics-cn.com'), ('DNS', 'googleadservices-cn.com'), ('DNS', '*.googleadservices-cn.com'), ('DNS', 'googlevads-cn.com'), ('DNS', '*.googlevads-cn.com'), ('DNS', 'googleapis-cn.com'), ('DNS', '*.googleapis-cn.com'), ('DNS', 'googleoptimize-cn.com'), ('DNS', '*.googleoptimize-cn.com'), ('DNS', 'doubleclick-cn.net'), ('DNS', '*.doubleclick-cn.net'), ('DNS', '*.fls.doubleclick-cn.net'), ('DNS', '*.g.doubleclick-cn.net'), ('DNS', 'doubleclick.cn'), ('DNS', '*.doubleclick.cn'), ('DNS', '*.fls.doubleclick.cn'), ('DNS', '*.g.doubleclick.cn'), ('DNS', 'dartsearch-cn.net'), ('DNS', '*.dartsearch-cn.net'), ('DNS', 'googletraveladservices-cn.com'), ('DNS', '*.googletraveladservices-cn.com'), ('DNS', 'googletagservices-cn.com'), ('DNS', '*.googletagservices-cn.com'), ('DNS', 'googletagmanager-cn.com'), ('DNS', '*.googletagmanager-cn.com'), ('DNS', 'googlesyndication-cn.com'), ('DNS', '*.googlesyndication-cn.com'), ('DNS', '*.safeframe.googlesyndication-cn.com'), ('DNS', 'app-measurement-cn.com'), ('DNS', '*.app-measurement-cn.com'), ('DNS', 'gvt1-cn.com'), ('DNS', '*.gvt1-cn.com'), ('DNS', 'gvt2-cn.com'), ('DNS', '*.gvt2-cn.com'), ('DNS', '2mdn-cn.net'), ('DNS', '*.2mdn-cn.net'), ('DNS', 'googleflights-cn.net'), ('DNS', '*.googleflights-cn.net'), ('DNS', 'admob-cn.com'), ('DNS', '*.admob-cn.com'), ('DNS', 'googlesandbox-cn.com'), ('DNS', '*.googlesandbox-cn.com'), ('DNS', '*.safenup.googlesandbox-cn.com'), ('DNS', '*.gstatic.com'), ('DNS', '*.metric.gstatic.com'), ('DNS', '*.gvt1.com'), ('DNS', '*.gcpcdn.gvt1.com'), ('DNS', '*.gvt2.com'), ('DNS', '*.gcp.gvt2.com'), ('DNS', '*.url.google.com'), ('DNS', '*.youtube-nocookie.com'), ('DNS', '*.ytimg.com'), ('DNS', 'ai.android'), ('DNS', 'android.com'), ('DNS', '*.android.com'), ('DNS', '*.flash.android.com'), ('DNS', 'g.cn'), ('DNS', '*.g.cn'), ('DNS', 'g.co'), ('DNS', '*.g.co'), ('DNS', 'goo.gl'), ('DNS', 'www.goo.gl'), ('DNS', 'google-analytics.com'), ('DNS', '*.google-analytics.com'), ('DNS', 'google.com'), ('DNS', 'googlecommerce.com'), ('DNS', '*.googlecommerce.com'), ('DNS', 'ggpht.cn'), ('DNS', '*.ggpht.cn'), ('DNS', 'urchin.com'), ('DNS', '*.urchin.com'), ('DNS', 'youtu.be'), ('DNS', 'youtube.com'), ('DNS', '*.youtube.com'), ('DNS', 'music.youtube.com'), ('DNS', '*.music.youtube.com'), ('DNS', 'youtubeeducation.com'), ('DNS', '*.youtubeeducation.com'), ('DNS', 'youtubekids.com'), ('DNS', '*.youtubekids.com'), ('DNS', 'yt.be'), ('DNS', '*.yt.be'), ('DNS', 'android.clients.google.com'), ('DNS', '*.android.google.cn'), ('DNS', '*.chrome.google.cn'), ('DNS', '*.developers.google.cn'), ('DNS', '*.aistudio.google.com')), 'OCSP': ('http://o.pki.goog/wr2',), 'caIssuers': ('http://i.pki.goog/wr2.crt',), 'crlDistributionPoints': ('http://c.pki.goog/wr2/75r4ZyA3vA0.crl',)}
+
+--- Nmap Scan ---
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-09-04 01:28 EDT
+Nmap scan report for youtube.com (142.250.70.46)
+Host is up (0.11s latency).
+Other addresses for youtube.com (not scanned): 2404:6800:4009:80a::200e
+rDNS record for 142.250.70.46: pnbomb-aa-in-f14.1e100.net
+Not shown: 997 filtered tcp ports (no-response), 1 filtered tcp ports (net-unreach)
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http      gws
+443/tcp open  ssl/https gws
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port80-TCP:V=7.95%I=7%D=9/4%Time=68B923A2%P=x86_64-pc-linux-gnu%r(GetRe
+SF:quest,3006,"HTTP/1\.0\x20200\x20OK\r\nDate:\x20Thu,\x2004\x20Sep\x20202
+SF:5\x2005:29:06\x20GMT\r\nExpires:\x20-1\r\nCache-Control:\x20private,\x2
+SF:0max-age=0\r\nContent-Type:\x20text/html;\x20charset=ISO-8859-1\r\nCont
+SF:ent-Security-Policy-Report-Only:\x20object-src\x20'none';base-uri\x20's
+SF:elf';script-src\x20'nonce-vJh2c0ggceDGPx48gEgNeA'\x20'strict-dynamic'\x
+SF:20'report-sample'\x20'unsafe-eval'\x20'unsafe-inline'\x20https:\x20http
+SF::;report-uri\x20https://csp\.withgoogle\.com/csp/gws/other-hp\r\nP3P:\x
+SF:20CP=\"This\x20is\x20not\x20a\x20P3P\x20policy!\x20See\x20g\.co/p3phelp
+SF:\x20for\x20more\x20info\.\"\r\nServer:\x20gws\r\nX-XSS-Protection:\x200
+SF:\r\nX-Frame-Options:\x20SAMEORIGIN\r\nSet-Cookie:\x20AEC=AVh_V2ipr2u9HU
+SF:d94ODK4lO4qsqBzc9Hbtxz4_gYO71WajfO3pexGALlhQ;\x20expires=Tue,\x2003-Mar
+SF:-2026\x2005:29:06\x20GMT;\x20path=/;\x20domain=\.google\.com;\x20Secure
+SF:;\x20HttpOnly;\x20SameSite=lax\r\nSet-Cookie:\x20NID=525=BeosWLa6UqO8BP
+SF:Mm_I_tZUWUsTnQtdYf_KLwwYB55T7JvcTtfqUPopM6EXbkuVVDVipYmQVqfQxL11TTZvwwh
+SF:7ttPZd1cPH5FE_aEhFbyxsz1KtSsbIuMDW1XA2CAP4lwBJ-gv_cwOn6EUBrx8NIr2h-RSVY
+SF:p5heqXraZ2gOQztKmDQBJ0G6g")%r(HTTPOptions,6DC,"HTTP/1\.0\x20405\x20Meth
+SF:od\x20Not\x20Allowed\r\nContent-Type:\x20text/html;\x20charset=UTF-8\r\
+SF:nReferrer-Policy:\x20no-referrer\r\nContent-Length:\x201592\r\nDate:\x2
+SF:0Thu,\x2004\x20Sep\x202025\x2005:29:07\x20GMT\r\n\r\n<!DOCTYPE\x20html>
+SF:\n<html\x20lang=en>\n\x20\x20<meta\x20charset=utf-8>\n\x20\x20<meta\x20
+SF:name=viewport\x20content=\"initial-scale=1,\x20minimum-scale=1,\x20widt
+SF:h=device-width\">\n\x20\x20<title>Error\x20405\x20\(Method\x20Not\x20Al
+SF:lowed\)!!1</title>\n\x20\x20<style>\n\x20\x20\x20\x20\*{margin:0;paddin
+SF:g:0}html,code{font:15px/22px\x20arial,sans-serif}html{background:#fff;c
+SF:olor:#222;padding:15px}body{margin:7%\x20auto\x200;max-width:390px;min-
+SF:height:180px;padding:30px\x200\x2015px}\*\x20>\x20body{background:url\(
+SF://www\.google\.com/images/errors/robot\.png\)\x20100%\x205px\x20no-repe
+SF:at;padding-right:205px}p{margin:11px\x200\x2022px;overflow:hidden}ins{c
+SF:olor:#777;text-decoration:none}a\x20img{border:0}@media\x20screen\x20an
+SF:d\x20\(max-width:772px\){body{background:none;margin-top:0;max-width:no
+SF:ne;padding-right:0}}#logo{background:url\(//www\.google\.com/images/bra
+SF:nding");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port443-TCP:V=7.95%T=SSL%I=7%D=9/4%Time=68B923A8%P=x86_64-pc-linux-gnu%
+SF:r(GetRequest,2D71,"HTTP/1\.0\x20200\x20OK\r\nDate:\x20Thu,\x2004\x20Sep
+SF:\x202025\x2005:29:13\x20GMT\r\nExpires:\x20-1\r\nCache-Control:\x20priv
+SF:ate,\x20max-age=0\r\nContent-Type:\x20text/html;\x20charset=ISO-8859-1\
+SF:r\nContent-Security-Policy-Report-Only:\x20object-src\x20'none';base-ur
+SF:i\x20'self';script-src\x20'nonce-v-g--FY0j1SO1oBV9zRVTw'\x20'strict-dyn
+SF:amic'\x20'report-sample'\x20'unsafe-eval'\x20'unsafe-inline'\x20https:\
+SF:x20http:;report-uri\x20https://csp\.withgoogle\.com/csp/gws/other-hp\r\
+SF:nAccept-CH:\x20Sec-CH-Prefers-Color-Scheme\r\nP3P:\x20CP=\"This\x20is\x
+SF:20not\x20a\x20P3P\x20policy!\x20See\x20g\.co/p3phelp\x20for\x20more\x20
+SF:info\.\"\r\nServer:\x20gws\r\nX-XSS-Protection:\x200\r\nX-Frame-Options
+SF::\x20SAMEORIGIN\r\nSet-Cookie:\x20AEC=AVh_V2h6F4rNT0Kwq2trLABgPfvyIFmkU
+SF:O2WeADNdD3LSjL1oqWPaHwaGx0;\x20expires=Tue,\x2003-Mar-2026\x2005:29:13\
+SF:x20GMT;\x20path=/;\x20domain=\.google\.com;\x20Secure;\x20HttpOnly;\x20
+SF:SameSite=lax\r\nSet-Cookie:\x20NID=525=TheiXxxkQdCrUfIgXNsJ0u6Fa8IrTvu9
+SF:VVSTKfeutW5EpuRJD_W8TvJ0gxUfaum_q57lKQ9wOqyhbrgVT4F_K-YCkgwgGTTkVZJGCL6
+SF:DVpeZv44k2ErwTBEspOBKngvePT2mfHe7vhfe");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 114.97 seconds
+
+
+--- Nikto Scan ---
+Nikto scan failed.
+

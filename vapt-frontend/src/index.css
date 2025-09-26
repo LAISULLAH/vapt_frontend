@@ -1,0 +1,42 @@
+/* index.css */
+
+/* Body theme */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000; /* Dark theme */
+  color: #0f0; /* Green text for hacker style */
+  font-family: monospace;
+}
+
+/* Scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #111;
+}
+::-webkit-scrollbar-thumb {
+  background: #0f0;
+}
+
+/* Buttons */
+button {
+  font-family: monospace;
+  transition: 0.2s;
+}
+button:hover {
+  background-color: #0f0;
+  color: #000;
+  border: 1px solid #ff0000;
+}
+
+/* Blinking text class (optional) */
+.blink {
+  animation: blink-animation 1s infinite;
+}
+@keyframes blink-animation {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}

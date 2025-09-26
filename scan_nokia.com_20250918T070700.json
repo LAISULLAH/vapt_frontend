@@ -1,0 +1,103 @@
+{
+  "target": "nokia.com",
+  "ip": "34.107.106.80",
+  "time": "2025-09-18T07:07:00.735052",
+  "open_ports": [
+    {
+      "port": 80,
+      "state": "open",
+      "name": "http",
+      "product": "nginx",
+      "version": "1.22.1",
+      "extra": ""
+    },
+    {
+      "port": 443,
+      "state": "open",
+      "name": "http",
+      "product": "nginx",
+      "version": "",
+      "extra": ""
+    }
+  ],
+  "predictions": [
+    {
+      "port": 443,
+      "service": "http nginx",
+      "severity": "MEDIUM",
+      "score": 5,
+      "issue": "HTTPS service exposed.",
+      "details": "Server header: AkamaiGHost; Missing X-Frame-Options header.; Missing X-Content-Type-Options header.; TLS: No SAN entries in certificate.",
+      "remediation": "Ensure TLS config and patching. Correct certificate SAN or reissue certificate.",
+      "cves": []
+    },
+    {
+      "port": 80,
+      "service": "http nginx 1.22.1",
+      "severity": "MEDIUM",
+      "score": 4,
+      "issue": "HTTP service exposed.",
+      "details": "Server header: AkamaiGHost; Missing X-Frame-Options header.; Missing X-Content-Type-Options header.",
+      "remediation": "Harden web server, validate inputs, use WAF.",
+      "cves": []
+    }
+  ],
+  "http_checks": {
+    "root": {
+      "ok": true,
+      "status_code": 403,
+      "headers": {
+        "Server": "AkamaiGHost",
+        "Mime-Version": "1.0",
+        "Content-Type": "text/html",
+        "Content-Length": "367",
+        "Expires": "Thu, 18 Sep 2025 11:06:14 GMT",
+        "Date": "Thu, 18 Sep 2025 11:06:14 GMT",
+        "Connection": "close",
+        "Set-Cookie": "nok_ip_locale=IN; expires=Sat, 18-Oct-2025 11:06:14 GMT; path=/, nok_ip_region=asia; path=/",
+        "Server-Timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1758193573821_388820190_1662125547_50_122731_127_120_-\";dur=1",
+        "Alt-Svc": "h3=\":443\"; ma=93600",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Content-Security-Policy": "frame-ancestors 'self' *.nokia.com *.ceros.com nokia.lookbookhq.com; report-uri /report-csp-violation",
+        "Access-Control-Allow-Origin": "*.nokia.com"
+      },
+      "notes": [
+        "Server header: AkamaiGHost",
+        "Missing X-Frame-Options header.",
+        "Missing X-Content-Type-Options header."
+      ]
+    },
+    "root_https": {
+      "ok": true,
+      "status_code": 403,
+      "headers": {
+        "Server": "AkamaiGHost",
+        "Mime-Version": "1.0",
+        "Content-Type": "text/html",
+        "Content-Length": "367",
+        "Expires": "Thu, 18 Sep 2025 11:06:28 GMT",
+        "Date": "Thu, 18 Sep 2025 11:06:28 GMT",
+        "Connection": "close",
+        "Set-Cookie": "nok_ip_locale=IN; expires=Sat, 18-Oct-2025 11:06:28 GMT; path=/, nok_ip_region=asia; path=/",
+        "Server-Timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1758193587804_388820190_1662181559_39_96770_409_130_-\";dur=1",
+        "Alt-Svc": "h3=\":443\"; ma=93600",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Content-Security-Policy": "frame-ancestors 'self' *.nokia.com *.ceros.com nokia.lookbookhq.com; report-uri /report-csp-violation",
+        "Access-Control-Allow-Origin": "*.nokia.com"
+      },
+      "notes": [
+        "Server header: AkamaiGHost",
+        "Missing X-Frame-Options header.",
+        "Missing X-Content-Type-Options header."
+      ]
+    }
+  },
+  "tls_check": {
+    "ok": true,
+    "cert": {},
+    "issues": [
+      "No SAN entries in certificate."
+    ],
+    "issuer": {}
+  }
+}

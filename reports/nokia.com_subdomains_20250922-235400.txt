@@ -1,0 +1,66 @@
+http://mx1.nokia.com	status=200	len=1670	server=Apache/2.4.65 (Debian)	title=Nokia internal IT services help
+http://dl.nokia.com	status=503	len=371	server=AkamaiGHost	title=Service Unavailable
+http://help.nokia.com	status=200	len=1670	server=Apache/2.4.65 (Debian)	title=Nokia internal IT services help
+http://go.nokia.com	status=200	len=539	server=adobe	title=404 - Page not found
+http://events.nokia.com	status=200	len=3912	server=Apache	title=STOVA - Client Login
+http://auth.nokia.com	status=403	len=4832	server=cloudflare	title=Attention Required! | Cloudflare
+http://m.nokia.com	status=503	len=371	server=AkamaiGHost	title=Service Unavailable
+http://mobile.nokia.com	status=503	len=371	server=AkamaiGHost	title=Service Unavailable
+http://www2.nokia.com	status=200	len=285502	server=nginx	title=Nokia Corporation | Nokia
+http://partners.nokia.com	status=200	len=104947	server=	title=Nokia Partner Program | Home
+http://www.support.nokia.com	status=400	len=312	server=AkamaiGHost	title=Invalid URL
+http://market.nokia.com	status=200	len=389	server=none	title=Alcatel-Lucent
+http://stage.nokia.com	status=401	len=3097	server=nginx	title=Pantheon | Site Locked
+https://ns.nokia.com	status=SSL_ERROR	len=0	server=	title=
+https://ns2.nokia.com	status=SSL_ERROR	len=0	server=	title=
+https://ns3.nokia.com	status=SSL_ERROR	len=0	server=	title=
+https://ns4.nokia.com	status=SSL_ERROR	len=0	server=	title=
+http://analytics.nokia.com	status=502	len=157	server=nginx/1.22.1	title=502 Bad Gateway
+https://ns5.nokia.com	status=SSL_ERROR	len=0	server=	title=
+http://careers.nokia.com	status=200	len=59816	server=Oracle API Gateway	title=Nokia
+https://ns6.nokia.com	status=SSL_ERROR	len=0	server=	title=
+https://ns7.nokia.com	status=SSL_ERROR	len=0	server=	title=
+https://facebook.nokia.com	status=404	len=0	server=awselb/2.0	title=
+https://ns8.nokia.com	status=SSL_ERROR	len=0	server=	title=
+http://link.nokia.com	status=503	len=369	server=AkamaiGHost	title=Service Unavailable
+http://www.nokia.com	status=200	len=285503	server=nginx	title=Nokia Corporation | Nokia
+http://learn.nokia.com	status=200	len=9441	server=AmazonS3	title=Nokia Learn
+http://dev.nokia.com	status=401	len=3097	server=nginx	title=Pantheon | Site Locked
+https://ns10.nokia.com	status=SSL_ERROR	len=0	server=	title=
+https://jobs.nokia.com	status=200	len=59816	server=Oracle API Gateway	title=Nokia
+https://ns11.nokia.com	status=SSL_ERROR	len=0	server=	title=
+http://training.nokia.com	status=200	len=240203	server=nginx	title=Learning at Nokia | Nokia
+http://customer.nokia.com	status=200	len=122050	server=sfdcedge	title=Nokia Customer Support Portal
+https://ns12.nokia.com	status=SSL_ERROR	len=0	server=	title=
+https://ns9.nokia.com	status=SSL_ERROR	len=0	server=	title=
+http://company.nokia.com	status=200	len=285502	server=nginx	title=Nokia Corporation | Nokia
+http://prod.nokia.com	status=401	len=0	server=nginx	title=
+http://support.nokia.com	status=200	len=220783	server=nginx	title=Support | Nokia.com
+http://developer.nokia.com	status=200	len=226916	server=nginx	title=Developer resources | Nokia.com
+http://customers.nokia.com	status=403	len=16649	server=sfdcedge	title=Error Page
+https://www.facebook.nokia.com	status=404	len=0	server=awselb/2.0	title=
+http://resources.nokia.com	status=200	len=7560	server=cloudflare	title=Sign in to Nokia
+http://autodiscover.nokia.com	status=200	len=12987	server=Microsoft-HTTPAPI/2.0	title=Outlook
+http://poll.nokia.com	status=503	len=373	server=AkamaiGHost	title=Service Unavailable
+http://results.nokia.com	status=200	len=285502	server=nginx	title=Nokia Corporation | Nokia
+http://europe.nokia.com	status=200	len=285502	server=nginx	title=Nokia Corporation | Nokia
+http://brand.nokia.com	status=200	len=7632	server=cloudflare	title=Sign in to Nokia
+http://insight.nokia.com	status=200	len=418136	server=nginx	title=Blog | Nokia.com
+http://documentation.nokia.com	status=200	len=165	server=Apache	title=redirect
+http://www.usa.nokia.com	status=200	len=285502	server=nginx	title=Nokia Corporation | Nokia
+http://n1.nokia.com	status=200	len=285502	server=nginx	title=Nokia Corporation | Nokia
+http://pages.nokia.com	status=200	len=289445	server=nginx	title=Network solutions | Nokia.com
+http://www.partners.nokia.com	status=200	len=104946	server=	title=Nokia Partner Program | Home
+http://kz.nokia.com	status=200	len=285502	server=nginx	title=Nokia Corporation | Nokia
+http://redir.nokia.com	status=503	len=371	server=AkamaiGHost	title=Service Unavailable
+https://alerts.nokia.com	status=200	len=86	server=Apache	title=
+http://www.learn.nokia.com	status=200	len=9441	server=AmazonS3	title=Nokia Learn
+http://tap.nokia.com	status=200	len=2252	server=	title=NOKIA TAP
+http://profiles.nokia.com	status=200	len=386937	server=Vercel	title=HERE Technologies | The world&#x27;s #1 location platform
+http://phones.nokia.com	status=200	len=226073	server=nginx	title=Nokia licensed products | Nokia.com
+http://networks.nokia.com	status=200	len=289445	server=nginx	title=Network solutions | Nokia.com
+http://infocenter.nokia.com	status=200	len=168	server=Apache	title=redirect
+http://now.nokia.com	status=200	len=26774	server=snow_adc	title=ServiceNow Nokia Now Platform
+http://nds.nokia.com	status=503	len=371	server=AkamaiGHost	title=Service Unavailable
+http://www.europe.nokia.com	status=200	len=285502	server=nginx	title=Nokia Corporation | Nokia
+http://pulse.nokia.com	status=200	len=386937	server=Vercel	title=HERE Technologies | The world&#x27;s #1 location platform
