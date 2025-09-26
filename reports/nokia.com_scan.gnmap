@@ -1,1 +1,0 @@
-# Nmap 7.95 scan initiated Mon Sep 22 23:39:06 2025 as: /usr/lib/nmap/nmap --privileged -sV -A -oN reports/nokia.com_scan.txt -oX reports/nokia.com_scan.xml -oG reports/nokia.com_scan.gnmap nokia.com

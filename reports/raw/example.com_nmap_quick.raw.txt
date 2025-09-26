@@ -1,1 +1,0 @@
-[!] TIMEOUT after 25s for: ['nmap', '--top-ports', '100', '-sV', '-oN', '-', 'example.com']

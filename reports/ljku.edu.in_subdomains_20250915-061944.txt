@@ -1,6 +1,0 @@
-http://mail.ljku.edu.in	status=200	len=12306	server=nginx	title=Zimbra Web Client Sign In
-http://www.ljku.edu.in	status=200	len=174304	server=nginx/1.18.0 (Ubuntu)	title=Lok Jagruti University
-http://email.ljku.edu.in	status=200	len=1289	server=GSE	title=Sign in - Google Accounts
-http://delivery.ljku.edu.in	status=404	len=110	server=Google Frontend	title=404 Not Found
-http://admissions.ljku.edu.in	status=200	len=149357	server=Apache	title=LJU
-http://certification.ljku.edu.in	status=200	len=45077	server=nginx/1.18.0 (Ubuntu)	title=Lok Jagruti Kendra University Blockchain Verifier

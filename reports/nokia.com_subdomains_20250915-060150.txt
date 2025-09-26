@@ -1,3 +1,0 @@
-http://dev.nokia.com	status=401	len=3097	server=nginx	title=Pantheon | Site Locked
-http://www.nokia.com	status=200	len=285476	server=nginx	title=Nokia Corporation | Nokia
-http://support.nokia.com	status=200	len=220767	server=nginx	title=Support | Nokia.com

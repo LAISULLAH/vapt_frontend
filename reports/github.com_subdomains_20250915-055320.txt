@@ -1,7 +1,0 @@
-http://api.github.com	status=200	len=2262	server=github.com	title=
-http://www.github.com	status=200	len=558289	server=github.com	title=GitHub · Build and ship software on a single, collaborative platform · GitHub
-http://admin.github.com	status=200	len=23880	server=nginx	title=GitHub, Inc. - Prod - Sign In
-http://support.github.com	status=200	len=10841	server=	title=Sign in for Software Support and Product Help - GitHub Support
-https://shop.github.com	status=200	len=163392	server=cloudflare	title=GitHub Shop
-http://blog.github.com	status=200	len=256691	server=nginx	title=Home - The GitHub Blog
-http://docs.github.com	status=200	len=96764	server=	title=GitHub Docs

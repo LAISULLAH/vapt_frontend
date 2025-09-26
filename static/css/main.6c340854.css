@@ -1,0 +1,2 @@
+body{background-color:#000;color:#0f0;font-family:monospace;margin:0;padding:0}::-webkit-scrollbar{width:8px}::-webkit-scrollbar-track{background:#111}::-webkit-scrollbar-thumb{background:#0f0}button{font-family:monospace;transition:.2s}button:hover{background-color:#0f0;border:1px solid red;color:#000}.blink{animation:blink-animation 1s infinite}@keyframes blink-animation{0%{opacity:1}50%{opacity:0}to{opacity:1}}
+/*# sourceMappingURL=main.6c340854.css.map*/

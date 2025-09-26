@@ -1,3 +1,0 @@
-[2025-09-07 04:01:28] All Attack Tools executed for ljku.edu.in (Lab-Safe)
-[2025-09-07 07:20:43] Metasploit Automation executed for ljku.edu.in (Lab-Safe)
-[2025-09-07 07:25:15] Metasploit Automation executed for ljku.edu.in (Lab-Safe)

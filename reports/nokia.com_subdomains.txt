@@ -1,8 +1,0 @@
-http://api.nokia.com
-http://dev.nokia.com
-http://support.nokia.com
-https://support.nokia.com
-http://dev.nokia.com
-http://support.nokia.com
-https://support.nokia.com
-http://api.nokia.com

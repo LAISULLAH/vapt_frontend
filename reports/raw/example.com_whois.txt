@@ -1,1 +1,0 @@
-[!] TIMEOUT after 25s for: ['whois', 'example.com']

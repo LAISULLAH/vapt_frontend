@@ -1,1 +1,0 @@
-# Nmap 7.95 scan initiated Fri Sep 26 01:36:39 2025 as: /usr/lib/nmap/nmap --privileged -sV -A -oN reports/ljku.edu.in_scan.txt -oX reports/ljku.edu.in_scan.xml -oG reports/ljku.edu.in_scan.gnmap ljku.edu.in

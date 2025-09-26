@@ -1,4 +1,0 @@
-# Nmap 7.95 scan initiated Sat Sep  6 02:12:31 2025 as: /usr/lib/nmap/nmap --privileged -sV -A -oN reports/cmarix.com_scan.txt -oX reports/cmarix.com_scan.xml -oG reports/cmarix.com_scan.gnmap cmarix.com
-Host: 50.18.112.111 (ec2-50-18-112-111.us-west-1.compute.amazonaws.com)	Status: Up
-Host: 50.18.112.111 (ec2-50-18-112-111.us-west-1.compute.amazonaws.com)	Ports: 22/open/tcp//ssh//OpenSSH 8.9p1 Ubuntu 3ubuntu0.13 (Ubuntu Linux; protocol 2.0)/, 25/closed/tcp//smtp///, 80/open/tcp//http//Apache httpd 2.4.52/, 443/open/tcp//ssl|http//Apache httpd 2.4.52/, 465/closed/tcp//smtps///	Ignored State: filtered (995)	Seq Index: 255	IP ID Seq: All zeros
-# Nmap done at Sat Sep  6 02:13:39 2025 -- 1 IP address (1 host up) scanned in 67.49 seconds

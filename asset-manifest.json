@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vapt_frontend/static/css/main.6c340854.css",
+    "main.js": "/vapt_frontend/static/js/main.04e7e0fa.js",
+    "index.html": "/vapt_frontend/index.html",
+    "main.6c340854.css.map": "/vapt_frontend/static/css/main.6c340854.css.map",
+    "main.04e7e0fa.js.map": "/vapt_frontend/static/js/main.04e7e0fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c340854.css",
+    "static/js/main.04e7e0fa.js"
+  ]
+}
